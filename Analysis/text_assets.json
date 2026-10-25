@@ -1,0 +1,23 @@
+[
+  {
+    "file": "resources.assets",
+    "path_id": 153,
+    "name": "PlayMakerAssemblies",
+    "length": 11,
+    "sample": "UnityEngine"
+  },
+  {
+    "file": "resources.assets",
+    "path_id": 154,
+    "name": "LineBreaking Leading Characters",
+    "length": 41,
+    "sample": "([｛〔〈《「『【〘〖〝‘“｟«$—…‥〳〴〵\\［（{£¥\"々〇〉》」＄｠￥￦ #"
+  },
+  {
+    "file": "resources.assets",
+    "path_id": 155,
+    "name": "LineBreaking Following Characters",
+    "length": 97,
+    "sample": ")]｝〕〉》」』】〙〗〟’”｠»ヽヾーァィゥェォッャュョヮヵヶぁぃぅぇぉっゃゅょゎゕゖㇰㇱㇲㇳㇴㇵㇶㇷㇸㇹㇺㇻㇼㇽㇾㇿ々〻‐゠–〜?!‼⁇⁈⁉・、%,.:;。！？］）：；＝}¢°\"†‡℃〆％，．"
+  }
+]

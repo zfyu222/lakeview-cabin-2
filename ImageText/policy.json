@@ -1,1 +1,47 @@
-{"script":"latin","negative_samples":30,"weak_samples":20,"ordinary_samples":10,"qwen_batch":100,"seed":42,"families":{},"images":{"00159_Lakeview_Cabin_2_Title.png":{"known_text":true,"risks":["art"]},"00161_Title_Screen_Presents.png":{"known_text":true,"risks":["art"]},"00261_FauxCredits2.png":{"known_text":true,"risks":["mirrored"]}},"calibration":{"evidence":"Conversation agent viewed calibration-1.jpg through calibration-3.jpg (36 textures): decorative title, tiny serif copyright, mirrored bitmap credits; other menu and controller sheets use icons. No family has been validated for automatic normal-font routing. Random samples include noisy building animation frames and blank lighting textures.","ordinary_font_validated":false}}
+{
+  "script": "latin",
+  "negative_samples": 30,
+  "weak_samples": 20,
+  "ordinary_samples": 10,
+  "qwen_batch": 100,
+  "seed": 42,
+  "families": {},
+  "images": {
+    "00159_Lakeview_Cabin_2_Title.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "00161_Title_Screen_Presents.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "00261_FauxCredits2.png": {
+      "known_text": true,
+      "risks": [
+        "mirrored"
+      ]
+    },
+    "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png": {
+      "known_text": true,
+      "risks": [
+        "art",
+        "outlined_variant"
+      ]
+    },
+    "00165_Lakeview_Cabin_2_Player_Choice.png": {
+      "known_text": true,
+      "risks": [
+        "art",
+        "outlined_variant"
+      ]
+    }
+  },
+  "calibration": {
+    "evidence": "Conversation agent viewed calibration-1.jpg through calibration-3.jpg (36 textures): decorative title, tiny serif copyright, mirrored bitmap credits; other menu and controller sheets use icons. No family has been validated for automatic normal-font routing. Random samples include noisy building animation frames and blank lighting textures. Also viewed player-choice and controller-choice atlases on a dark alpha-composited background, confirming filled and outlined text variants.",
+    "ordinary_font_validated": false
+  }
+}

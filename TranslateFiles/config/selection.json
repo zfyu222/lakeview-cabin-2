@@ -1,0 +1,8 @@
+{
+  "workflow": "custom",
+  "backend": "api",
+  "source_language": "English",
+  "target_language": "简体中文",
+  "style": "像素生存恐怖游戏。中文简洁自然；保持原意和黑色幽默，不增添说明。片尾人员名保留拉丁拼写，Denis保留英文。",
+  "polish": false
+}

@@ -5,7 +5,8 @@
 - 中文名：湖景小屋2（暂译）
 - 开发商：Roope Tamminen（HypnoGames，个人开发者，兼发行商）
 - 发行平台：Steam（AppID 1291790；Windows / macOS）
-- 引擎：Unity（Mono 后端，含 PlayMaker、DOTween、Cinemachine）
+- 引擎：Unity 2019.4.34f1（Mono 后端，含 PlayMaker、DOTween、Cinemachine）
+- 本机版本：Steam Windows x64，BuildID 13433015（以现有安装文件哈希为准）
 - 原语言：英语（界面/字幕/音频均仅英语）
 
 ## 游戏简介
@@ -43,8 +44,11 @@
 - 图片 OCR / 视觉确认正在进行，最终范围及未决项待补充。
 
 ## 翻译
-- 词典：
-- 策略：
+- 路线：API，共用 translation_workflow.py / run_api_round.py。接口按工作区 api.local.jsonc 的已启用优先级与故障切换配置执行；凭据不入库。当前首选 yjapi / deepseek-v4.1-flash，具体真实调用记录保留在本地 reports/api_runs。
+- 常规文本术语：已完成全文提取、独立语义审校和冻结，r2，non_translate 保留 Denis；人物名单不进入翻译片段，不改原拼写。
+- 常规试译：全部4条，主Agent整体校准接受，未发现机械错误；正式翻译和独立审校待图片抽取完成后继续。
+- 占位符：由共用程序保护；字幕空行及原人员名单由回填映射保留。
+- 图片文本：独立 TranslateFiles/image-text 子工程，等待视觉确认后的原文，不混用常规文本状态。
 
 ## 回填
 - 工具/命令：
