@@ -1,0 +1,110 @@
+{
+  "098e86048b2b99d7cada856d94f75d6641758c30bd7f3edc2327e39809e79064": {
+    "source": "00098_logoSmall.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "0f3566537d7cb6d859fc3e7c2358cc442a1d7b0fbf7e4cd1ceb3d62494459829": {
+    "source": "00155_TrophyIcons1.png",
+    "reason": "Micro glyph sheet or tiny artwork/labels: retain original; source not confidently transcribed."
+  },
+  "1d94022bbeb58f3eacad2da05d57b007d5e2b4ea26bfb766a69514a7f34771d7": {
+    "source": "00508_HotelBonusPaths1.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "1d9763d3b3655d29c0aa9730621a4e8958dc41f3f0eb65636c7e48d952cd9f81": {
+    "source": "00489_OptionsStuff.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "7cc81e6e3a11f8a13fb0fcdac806a9988bd8367008d49cd1e4d5c78628277321": {
+    "source": "00088_CalibrationFloorSpecularGloss.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "8c418a9254682ebafac893fc6ddaac9002e3d37c488685a9deec9de4abfd99a2": {
+    "source": "02617_NesScores.png",
+    "reason": "Micro glyph sheet or tiny artwork/labels: retain original; source not confidently transcribed."
+  },
+  "8d5c5d7b7036df057ff708c5dec90908bdd9f6ac423cd28176b7fd8f93f4989c": {
+    "source": "00130_CalibrationFloorDiffuse.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "b0e258d4deb9e320bb97fa4f0e6e3641013d7ff4d3305edeecb7b38f8b0964d9": {
+    "source": "00148_SamplePotLabelDefaultDiffuse.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "be4bf92eb563c73ec65827b91d000ddebe0714ef163babea0dbf5b023bbbb21c": {
+    "source": "00242_FridgeDoorsPenthouse1.png",
+    "reason": "Micro glyph sheet or tiny artwork/labels: retain original; source not confidently transcribed."
+  },
+  "cc52cd944befa61abf820ed913b831ce9a175f1fa80b0d5e85947ebfb85dca7e": {
+    "source": "00055_original.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "d936e3cc7dbb382b24693e5afc845180ea738131ffe0c798e8dac6570f635845": {
+    "source": "00154_LiberationSans_SDF_Atlas.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "0aa906394635c68b5ed01156e0e4502735d4389156527fb4d85a56f576dd679e": {
+    "source": "00097_CalibrationGreyscaleDarkDiffuse.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "38e3f43e6230e0cc1bf820fe73b7de7e77ee2844d109436408356933576ae2cc": {
+    "source": "00082_CalibrationGreyscaleLightDiffuse.png",
+    "reason": "Engine/vendor reference texture or language-neutral glyph/number sheet; keep original. Tiny trophy/label art is not reliably transcribable at source resolution."
+  },
+  "1349b847095801d11166bfb209fcc7cc1528c780184672dc90f9de9d3ef68734": {
+    "source": "02356_SawRoulette.png",
+    "reason": "Language-neutral numeric dial/segment display kept intact."
+  },
+  "6589a38f71545d09f76df3e7868fa49c7f8f20335d282c18857c890f5e4bca4f": {
+    "source": "00191_LaboratoryEquipmentMachines1.png",
+    "reason": "Language-neutral numeric dial/segment display kept intact."
+  },
+  "6717a92073b332878d095bbabad4dc8bbc864e4d8641802b53aac22ecb5fcfaa": {
+    "source": "00327_HubLevelPlans3.png",
+    "reason": "Tiny handwriting on scene-plan artwork cannot be reliably transcribed; retain original."
+  },
+  "0d75a2bc9c23aa3050003eb0fd33e2a0f3e1789c932cc6decbfa61bbc993c3b7": {
+    "source": "02641_Cabin01Interiors.png",
+    "reason": "Language-neutral jersey numbers, fictional shirt emblem or Roman numeral artwork retained."
+  },
+  "1fc8f52bbb210deb7341ec0ebcef5cddf3ea27be2286557b595eafd60a4eaf66": {
+    "source": "02907_CosplayerBasic02.png",
+    "reason": "Language-neutral jersey numbers, fictional shirt emblem or Roman numeral artwork retained."
+  },
+  "9aa782f2e4d6f42723c2104a78330f6345860c5893767c40d68ea6e146048379": {
+    "source": "02854_HotelItems.png",
+    "reason": "Tiny newspaper/package decorative text cannot be reliably transcribed; retain original."
+  },
+  "b2a8842e5a34319dc2e25e4123e9dd55dd7cd4c5afdfce284c0a16230e29a717": {
+    "source": "02930_CorridorPoster02.png",
+    "reason": "Language-neutral jersey numbers, fictional shirt emblem or Roman numeral artwork retained."
+  },
+  "c31b2fbb8f0d346ab9d1b94ee03433de4252408c1cdd05c2e9570179cd3bbe3c": {
+    "source": "02571_Apocalypse_Items.png",
+    "reason": "Tiny newspaper/package decorative text cannot be reliably transcribed; retain original."
+  },
+  "368396aec0ce8e1e5e34c5e7ceef042abc2f39abe72425c40f795e747f9dac88": {
+    "source": "02869_HotelMap.png",
+    "reason": "Language-neutral floor numerals/map compass markings retained."
+  },
+  "8b0a0b9070a6fd2032345b576be46faae891f08d8e5ebf670336b980caab8653": {
+    "source": "02985_HotelNewspapers.png",
+    "reason": "Newspaper decorative small print has no reliable source transcription; retain original."
+  },
+  "c7b69c8de711c62d1dfeee0074a2968cb7415f28d8a3ebc7ea8a77f8b6586146": {
+    "source": "02979_HotelFloorPlaques1.png",
+    "reason": "Language-neutral floor numerals/map compass markings retained."
+  },
+  "c851a00600a2a24cd10f23c766aa45c2f87ba458c77742912162fc34793f6fd3": {
+    "source": "02083_ApocalypseMapIcons1.png",
+    "reason": "Language-neutral floor numerals/map compass markings retained."
+  },
+  "f03a73aa5a6091f220f217af94d8bda9b247ef4c75da69effffdc02efce2611a": {
+    "source": "02917_CosplayerBasic03.png",
+    "reason": "Fictional shirt emblem / vendor technical normal-map material kept unchanged."
+  },
+  "f1ddbe7b23660154695aec18f758649fe5a2a953e0dac38860db2d5660467edf": {
+    "source": "00110_SamplePotLidNormals.png",
+    "reason": "Fictional shirt emblem / vendor technical normal-map material kept unchanged."
+  }
+}

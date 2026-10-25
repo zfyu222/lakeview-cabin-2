@@ -1,0 +1,1188 @@
+{
+  "schema": 2,
+  "csv_sha256": "b6e66c4e8b45baf8f40ee5489a2b9eabe27addf06f28a8eb270a3a4bc5f93ef1",
+  "records": 22,
+  "regions": [
+    {
+      "csv_row": 1,
+      "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+      "region_id": "confirmed-3cc7c55282750af8-0",
+      "box": [
+        762.88,
+        19.2,
+        1003.52,
+        96.0
+      ],
+      "sources": [
+        {
+          "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+          "file_sha256": "857b39c742837b9788d60eae0883bcccc9107b437cc13260998376a6e5239404",
+          "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 5,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player ChoiceControllers",
+                "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整图明确显示Player 1、Player 2、OK和Back；P1/P2为保留的控制器槽位缩写。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\22.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 2,
+      "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+      "region_id": "confirmed-3cc7c55282750af8-1",
+      "box": [
+        762.88,
+        108.8,
+        1003.52,
+        185.6
+      ],
+      "sources": [
+        {
+          "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+          "file_sha256": "857b39c742837b9788d60eae0883bcccc9107b437cc13260998376a6e5239404",
+          "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 5,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player ChoiceControllers",
+                "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整图明确显示Player 1、Player 2、OK和Back；P1/P2为保留的控制器槽位缩写。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\22.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 3,
+      "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+      "region_id": "confirmed-3cc7c55282750af8-2",
+      "box": [
+        458.752,
+        291.2,
+        621.568,
+        380.8
+      ],
+      "sources": [
+        {
+          "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+          "file_sha256": "857b39c742837b9788d60eae0883bcccc9107b437cc13260998376a6e5239404",
+          "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 5,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player ChoiceControllers",
+                "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整图明确显示Player 1、Player 2、OK和Back；P1/P2为保留的控制器槽位缩写。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\22.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 4,
+      "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+      "region_id": "confirmed-3cc7c55282750af8-3",
+      "box": [
+        458.752,
+        483.2,
+        640.0,
+        563.2
+      ],
+      "sources": [
+        {
+          "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+          "file_sha256": "857b39c742837b9788d60eae0883bcccc9107b437cc13260998376a6e5239404",
+          "image_id": "3cc7c55282750af88b22f42455a5598233c1cba08a3ed0a1c2ea9e29d455e75c",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 5,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player ChoiceControllers",
+                "path": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整图明确显示Player 1、Player 2、OK和Back；P1/P2为保留的控制器槽位缩写。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\22.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 5,
+      "image_id": "8d1114acdeec75668081ff84459140b8a99f00685cb8f2ca54f783fb7562b5d7",
+      "region_id": "confirmed-8d1114acdeec7566-0",
+      "box": [
+        143.36,
+        160.0,
+        885.76,
+        470.4
+      ],
+      "sources": [
+        {
+          "path": "00159_Lakeview_Cabin_2_Title.png",
+          "file_sha256": "ec9c5e5312d30907fab5d3ef1ca2a477dbdd21c28e4f29180ab38f1c2d6769b3",
+          "image_id": "8d1114acdeec75668081ff84459140b8a99f00685cb8f2ca54f783fb7562b5d7",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 7,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Title",
+                "path": "00159_Lakeview_Cabin_2_Title.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整标题为两行带引号的LAKEVIEW / CABIN 2；下方版权行清晰可读，名字保持原拼写。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\34.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 6,
+      "image_id": "8d1114acdeec75668081ff84459140b8a99f00685cb8f2ca54f783fb7562b5d7",
+      "region_id": "confirmed-8d1114acdeec7566-1",
+      "box": [
+        289.792,
+        499.2,
+        742.4,
+        524.8
+      ],
+      "sources": [
+        {
+          "path": "00159_Lakeview_Cabin_2_Title.png",
+          "file_sha256": "ec9c5e5312d30907fab5d3ef1ca2a477dbdd21c28e4f29180ab38f1c2d6769b3",
+          "image_id": "8d1114acdeec75668081ff84459140b8a99f00685cb8f2ca54f783fb7562b5d7",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 7,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Title",
+                "path": "00159_Lakeview_Cabin_2_Title.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整标题为两行带引号的LAKEVIEW / CABIN 2；下方版权行清晰可读，名字保持原拼写。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\34.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 7,
+      "image_id": "5f54260e8d77dd48537411ee00e3aff020e2a00ba270f64bdc58ebf859f55f5c",
+      "region_id": "confirmed-5f54260e8d77dd48-0",
+      "box": [
+        48.83,
+        42.84,
+        467.74,
+        77.35
+      ],
+      "sources": [
+        {
+          "path": "00161_Title_Screen_Presents.png",
+          "file_sha256": "43ee1878cefb4ada8e75a4548723b474802b7d2b26533cc68969e227af85d477",
+          "image_id": "5f54260e8d77dd48537411ee00e3aff020e2a00ba270f64bdc58ebf859f55f5c",
+          "width": 514,
+          "height": 119,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 9,
+                "type": "Texture2D",
+                "name": "Title Screen Presents",
+                "path": "00161_Title_Screen_Presents.png",
+                "width": 514,
+                "height": 119
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "制作者出品行清晰显示Roope Tamminen presents。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\57.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 8,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-0",
+      "box": [
+        128.0,
+        64.0,
+        435.2,
+        144.0
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 8,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-1",
+      "box": [
+        568.32,
+        64.0,
+        870.4,
+        144.0
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 9,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-2",
+      "box": [
+        128.0,
+        182.4,
+        435.2,
+        262.4
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 9,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-3",
+      "box": [
+        568.32,
+        182.4,
+        870.4,
+        262.4
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 10,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-4",
+      "box": [
+        128.0,
+        304.0,
+        435.2,
+        384.0
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 10,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-5",
+      "box": [
+        568.32,
+        304.0,
+        870.4,
+        384.0
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 11,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-6",
+      "box": [
+        128.0,
+        422.4,
+        435.2,
+        502.4
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 11,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-7",
+      "box": [
+        568.32,
+        422.4,
+        870.4,
+        502.4
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 12,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-8",
+      "box": [
+        0.0,
+        566.4,
+        506.88,
+        624.0
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 12,
+      "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+      "region_id": "confirmed-f7489e1d3d868945-9",
+      "box": [
+        522.24,
+        566.4,
+        1022.976,
+        624.0
+      ],
+      "sources": [
+        {
+          "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+          "file_sha256": "c7bb11cc43bbdfd36565d94cc952087ffcf629ab416547079a633018352e1bcd",
+          "image_id": "f7489e1d3d8689452c337de0f7cd1c721fc2d7798ca59f8f309cd88804e24888",
+          "width": 1024,
+          "height": 640,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets1.assets",
+                "path_id": 13,
+                "type": "Texture2D",
+                "name": "Lakeview Cabin 2 Player Choice",
+                "path": "00165_Lakeview_Cabin_2_Player_Choice.png",
+                "width": 1024,
+                "height": 640
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看原始1024×640透明图的深色合成版本：左右分别是相同人数选项的实心/空心版本，最下方均为Play Lakeview Cabin 1。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\54.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 13,
+      "image_id": "17b05c658daf3225ae49846ed59e82e28882791f7b9c096eb2ce16894152e21f",
+      "region_id": "confirmed-17b05c658daf3225-0",
+      "box": [
+        121.6,
+        6.4,
+        198.4,
+        24.0
+      ],
+      "sources": [
+        {
+          "path": "00261_FauxCredits2.png",
+          "file_sha256": "9196719d9deae37f58a03e0acd9f8e0f9d42b6f8dfa87e00e1a4997f36d2e661",
+          "image_id": "17b05c658daf3225ae49846ed59e82e28882791f7b9c096eb2ce16894152e21f",
+          "width": 320,
+          "height": 320,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets18.assets",
+                "path_id": 88,
+                "type": "Texture2D",
+                "name": "FauxCredits2",
+                "path": "00261_FauxCredits2.png",
+                "width": 320,
+                "height": 320
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "逐像素查看镜像字幕，确认顶部两段职位标签；人员名单保留原有拼写和镜像方向，不进入可翻译区域。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\10.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 14,
+      "image_id": "17b05c658daf3225ae49846ed59e82e28882791f7b9c096eb2ce16894152e21f",
+      "region_id": "confirmed-17b05c658daf3225-1",
+      "box": [
+        111.04,
+        64.64,
+        208.96,
+        83.84
+      ],
+      "sources": [
+        {
+          "path": "00261_FauxCredits2.png",
+          "file_sha256": "9196719d9deae37f58a03e0acd9f8e0f9d42b6f8dfa87e00e1a4997f36d2e661",
+          "image_id": "17b05c658daf3225ae49846ed59e82e28882791f7b9c096eb2ce16894152e21f",
+          "width": 320,
+          "height": 320,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets18.assets",
+                "path_id": 88,
+                "type": "Texture2D",
+                "name": "FauxCredits2",
+                "path": "00261_FauxCredits2.png",
+                "width": 320,
+                "height": 320
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "逐像素查看镜像字幕，确认顶部两段职位标签；人员名单保留原有拼写和镜像方向，不进入可翻译区域。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\166f8605b9ef5a4994fdb461d51b6b49490bc6cef9a3276866b59390154bcb7b\\10.png",
+        "package_hash": "ff1039e563c415cf0821a9241b4d44700e6c16211e6495d0e8f7a18a16dbc2b6"
+      }
+    },
+    {
+      "csv_row": 15,
+      "image_id": "19f0ce9a2f2cce171cb6a751acbc5ebc75f8962341ab7b658db23f60364eb9e6",
+      "region_id": "confirmed-19f0ce9a2f2cce17-0",
+      "box": [
+        420.0,
+        667.2,
+        830.4,
+        916.8
+      ],
+      "sources": [
+        {
+          "path": "02638_NoteItems.png",
+          "file_sha256": "695c0b87843036873338767e08992586a91110e746dd707a148bf1a6746d9893",
+          "image_id": "19f0ce9a2f2cce171cb6a751acbc5ebc75f8962341ab7b658db23f60364eb9e6",
+          "width": 1200,
+          "height": 960,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets4.assets",
+                "path_id": 98,
+                "type": "Texture2D",
+                "name": "NoteItems",
+                "path": "02638_NoteItems.png",
+                "width": 1200,
+                "height": 960
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "放大完整NoteItems素材，黑底说明框清晰可见Not done / yet...两行；日历为图形符号，破碎硬币字母保留原样。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\1c780a8858a9873a11fa79bc674ace224419d8fceed96d5abf08ec28cef5afff\\9.png",
+        "package_hash": "0b700bca749dc1a6825c52f6014864d433c667a4c0e2878ec71e2190d4a616b0"
+      }
+    },
+    {
+      "csv_row": 16,
+      "image_id": "11a245bbaa02ab5478afc81e24d4097dbc3444099af1e9435214a1e4a2950e9b",
+      "region_id": "confirmed-11a245bbaa02ab54-0",
+      "box": [
+        112.64,
+        89.6,
+        399.36,
+        148.48
+      ],
+      "sources": [
+        {
+          "path": "02757_LakeviewCabin1GameOver.png",
+          "file_sha256": "de92cf35c35266c41a7e2fc4eefbdf34451cc87b38035585e34d0b889d5ab2da",
+          "image_id": "11a245bbaa02ab5478afc81e24d4097dbc3444099af1e9435214a1e4a2950e9b",
+          "width": 512,
+          "height": 256,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets40.assets",
+                "path_id": 9,
+                "type": "Texture2D",
+                "name": "LakeviewCabin1GameOver",
+                "path": "02757_LakeviewCabin1GameOver.png",
+                "width": 512,
+                "height": 256
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "已单独放大查看原始文字图，按可见大小写、标点和换行转写；71仅翻译职位标签，作者姓名维持原文。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\da3561254e5352ff26cddc8d0acab26c050cb9ff7ad9d017f74720d7c7ee6098\\70.png",
+        "package_hash": "48907591968ebdea420f11758c9ed45d1ff2e1060c4210a8b13ecf7f6ccb0c97"
+      }
+    },
+    {
+      "csv_row": 17,
+      "image_id": "fb1ba8b417e47f28c256b13c02d495c2d761ded9663491e64757dd369e8fe6fa",
+      "region_id": "confirmed-fb1ba8b417e47f28-0",
+      "box": [
+        26.7,
+        25.0,
+        240.3,
+        56.25
+      ],
+      "sources": [
+        {
+          "path": "02763_Cabin1Tutorials.png",
+          "file_sha256": "b7c632bc5725de8913e7b021490856b4c9847473596ad83409bc655d5e4f5e46",
+          "image_id": "fb1ba8b417e47f28c256b13c02d495c2d761ded9663491e64757dd369e8fe6fa",
+          "width": 267,
+          "height": 125,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets40.assets",
+                "path_id": 15,
+                "type": "Texture2D",
+                "name": "Cabin1Tutorials",
+                "path": "02763_Cabin1Tutorials.png",
+                "width": 267,
+                "height": 125
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "已单独放大查看原始文字图，按可见大小写、标点和换行转写；71仅翻译职位标签，作者姓名维持原文。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\da3561254e5352ff26cddc8d0acab26c050cb9ff7ad9d017f74720d7c7ee6098\\61.png",
+        "package_hash": "48907591968ebdea420f11758c9ed45d1ff2e1060c4210a8b13ecf7f6ccb0c97"
+      }
+    },
+    {
+      "csv_row": 18,
+      "image_id": "fb1ba8b417e47f28c256b13c02d495c2d761ded9663491e64757dd369e8fe6fa",
+      "region_id": "confirmed-fb1ba8b417e47f28-1",
+      "box": [
+        29.37,
+        75.0,
+        240.3,
+        101.25
+      ],
+      "sources": [
+        {
+          "path": "02763_Cabin1Tutorials.png",
+          "file_sha256": "b7c632bc5725de8913e7b021490856b4c9847473596ad83409bc655d5e4f5e46",
+          "image_id": "fb1ba8b417e47f28c256b13c02d495c2d761ded9663491e64757dd369e8fe6fa",
+          "width": 267,
+          "height": 125,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets40.assets",
+                "path_id": 15,
+                "type": "Texture2D",
+                "name": "Cabin1Tutorials",
+                "path": "02763_Cabin1Tutorials.png",
+                "width": 267,
+                "height": 125
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "已单独放大查看原始文字图，按可见大小写、标点和换行转写；71仅翻译职位标签，作者姓名维持原文。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\da3561254e5352ff26cddc8d0acab26c050cb9ff7ad9d017f74720d7c7ee6098\\61.png",
+        "package_hash": "48907591968ebdea420f11758c9ed45d1ff2e1060c4210a8b13ecf7f6ccb0c97"
+      }
+    },
+    {
+      "csv_row": 13,
+      "image_id": "2f89d4a5c3148d924e2e54295944b143b4f9182e3dfe7c703982e10e9a154787",
+      "region_id": "confirmed-2f89d4a5c3148d92-0",
+      "box": [
+        199.68,
+        28.16,
+        307.2,
+        52.48
+      ],
+      "sources": [
+        {
+          "path": "02767_LakeviewCabin1EndingCredit.png",
+          "file_sha256": "d76c915bfa9caf372c5e7486eda7697248c111c9f1fadf45c06f90086c70bfb8",
+          "image_id": "2f89d4a5c3148d924e2e54295944b143b4f9182e3dfe7c703982e10e9a154787",
+          "width": 512,
+          "height": 256,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets40.assets",
+                "path_id": 19,
+                "type": "Texture2D",
+                "name": "LakeviewCabin1EndingCredit",
+                "path": "02767_LakeviewCabin1EndingCredit.png",
+                "width": 512,
+                "height": 256
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "已单独放大查看原始文字图，按可见大小写、标点和换行转写；71仅翻译职位标签，作者姓名维持原文。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\da3561254e5352ff26cddc8d0acab26c050cb9ff7ad9d017f74720d7c7ee6098\\71.png",
+        "package_hash": "48907591968ebdea420f11758c9ed45d1ff2e1060c4210a8b13ecf7f6ccb0c97"
+      }
+    },
+    {
+      "csv_row": 19,
+      "image_id": "d8385d9fa4aba2fc42b157204850e426df0547acb46adf82f3dd7156ca4d6575",
+      "region_id": "confirmed-d8385d9fa4aba2fc-0",
+      "box": [
+        66.56,
+        51.2,
+        448.0,
+        202.24
+      ],
+      "sources": [
+        {
+          "path": "02774_LakeviewCabin1TitleCard.png",
+          "file_sha256": "8fe1ac9c7da0542a104aa5d3a3b4eff901d65b1d085e839dd6ed99d142f965e7",
+          "image_id": "d8385d9fa4aba2fc42b157204850e426df0547acb46adf82f3dd7156ca4d6575",
+          "width": 512,
+          "height": 256,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets40.assets",
+                "path_id": 26,
+                "type": "Texture2D",
+                "name": "LakeviewCabin1TitleCard",
+                "path": "02774_LakeviewCabin1TitleCard.png",
+                "width": 512,
+                "height": 256
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整512×256初代标题卡清晰显示两行Lakeview / Cabin及上方Roope Tamminen presents...。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\0c3e5129abbc21d989275a4382c5f57a2a9e01db5abe20ac32b4d97a5dec160a\\94.png",
+        "package_hash": "4f160d08bc1b7d72eee9311e8a4d6700ee8bcec406d4e83157d233cc40f6c64f"
+      }
+    },
+    {
+      "csv_row": 20,
+      "image_id": "d8385d9fa4aba2fc42b157204850e426df0547acb46adf82f3dd7156ca4d6575",
+      "region_id": "confirmed-d8385d9fa4aba2fc-1",
+      "box": [
+        143.36,
+        27.648,
+        376.32,
+        51.2
+      ],
+      "sources": [
+        {
+          "path": "02774_LakeviewCabin1TitleCard.png",
+          "file_sha256": "8fe1ac9c7da0542a104aa5d3a3b4eff901d65b1d085e839dd6ed99d142f965e7",
+          "image_id": "d8385d9fa4aba2fc42b157204850e426df0547acb46adf82f3dd7156ca4d6575",
+          "width": 512,
+          "height": 256,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets40.assets",
+                "path_id": 26,
+                "type": "Texture2D",
+                "name": "LakeviewCabin1TitleCard",
+                "path": "02774_LakeviewCabin1TitleCard.png",
+                "width": 512,
+                "height": 256
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "完整512×256初代标题卡清晰显示两行Lakeview / Cabin及上方Roope Tamminen presents...。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\0c3e5129abbc21d989275a4382c5f57a2a9e01db5abe20ac32b4d97a5dec160a\\94.png",
+        "package_hash": "4f160d08bc1b7d72eee9311e8a4d6700ee8bcec406d4e83157d233cc40f6c64f"
+      }
+    },
+    {
+      "csv_row": 21,
+      "image_id": "d645a87013d8c8893a1d24b8bc964c21e115e3626226756fca7657b226876957",
+      "region_id": "confirmed-d645a87013d8c889-0",
+      "box": [
+        0.0,
+        0.0,
+        281.0,
+        39.0
+      ],
+      "sources": [
+        {
+          "path": "02786_WatermarkWarning.png",
+          "file_sha256": "fb56fa75bf30adc60cb1d6af3b3a5d31d40af9c5defbf6fc1af9a001d20e4e45",
+          "image_id": "d645a87013d8c8893a1d24b8bc964c21e115e3626226756fca7657b226876957",
+          "width": 281,
+          "height": 39,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets40.assets",
+                "path_id": 38,
+                "type": "Texture2D",
+                "name": "WatermarkWarning",
+                "path": "02786_WatermarkWarning.png",
+                "width": 281,
+                "height": 39
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "已单独放大查看原始文字图，按可见大小写、标点和换行转写；71仅翻译职位标签，作者姓名维持原文。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\da3561254e5352ff26cddc8d0acab26c050cb9ff7ad9d017f74720d7c7ee6098\\74.png",
+        "package_hash": "48907591968ebdea420f11758c9ed45d1ff2e1060c4210a8b13ecf7f6ccb0c97"
+      }
+    },
+    {
+      "csv_row": 22,
+      "image_id": "55ddbd4f593e1f8c64b99943aac3f9421111d0c7d879414e0a60bfe59ce2449a",
+      "region_id": "confirmed-55ddbd4f593e1f8c-0",
+      "box": [
+        179.2,
+        110.08,
+        332.8,
+        148.48
+      ],
+      "sources": [
+        {
+          "path": "02788_LakeviewCabin1EndingCredit2.png",
+          "file_sha256": "71bc72d58cd6bf725067873be15d5e8e25b9aed128298b53d73605919537df17",
+          "image_id": "55ddbd4f593e1f8c64b99943aac3f9421111d0c7d879414e0a60bfe59ce2449a",
+          "width": 512,
+          "height": 256,
+          "provenance": {
+            "engine_sources": [
+              {
+                "file": "sharedassets41.assets",
+                "path_id": 3,
+                "type": "Texture2D",
+                "name": "LakeviewCabin1EndingCredit2",
+                "path": "02788_LakeviewCabin1EndingCredit2.png",
+                "width": 512,
+                "height": 256
+              }
+            ]
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "已单独放大查看原始文字图，按可见大小写、标点和换行转写；71仅翻译职位标签，作者姓名维持原文。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "current-conversation-agent",
+        "evidence": "tiered\\agent\\da3561254e5352ff26cddc8d0acab26c050cb9ff7ad9d017f74720d7c7ee6098\\73.png",
+        "package_hash": "48907591968ebdea420f11758c9ed45d1ff2e1060c4210a8b13ecf7f6ccb0c97"
+      }
+    }
+  ],
+  "scan_hash": "60b0f5d31ce1c4f5fb10db4022adc13cfcf6e7d4e87f1615f991a685e68223ba",
+  "plan_hash": "8f1d40cc8ad7b01e94def44f2ac5199f1db0c9b1dd9ad723f8d72f13f1796839",
+  "unresolved_image_ids": [
+    "098e86048b2b99d7cada856d94f75d6641758c30bd7f3edc2327e39809e79064",
+    "0aa906394635c68b5ed01156e0e4502735d4389156527fb4d85a56f576dd679e",
+    "0d75a2bc9c23aa3050003eb0fd33e2a0f3e1789c932cc6decbfa61bbc993c3b7",
+    "0f3566537d7cb6d859fc3e7c2358cc442a1d7b0fbf7e4cd1ceb3d62494459829",
+    "1349b847095801d11166bfb209fcc7cc1528c780184672dc90f9de9d3ef68734",
+    "1d94022bbeb58f3eacad2da05d57b007d5e2b4ea26bfb766a69514a7f34771d7",
+    "1d9763d3b3655d29c0aa9730621a4e8958dc41f3f0eb65636c7e48d952cd9f81",
+    "1fc8f52bbb210deb7341ec0ebcef5cddf3ea27be2286557b595eafd60a4eaf66",
+    "368396aec0ce8e1e5e34c5e7ceef042abc2f39abe72425c40f795e747f9dac88",
+    "38e3f43e6230e0cc1bf820fe73b7de7e77ee2844d109436408356933576ae2cc",
+    "6589a38f71545d09f76df3e7868fa49c7f8f20335d282c18857c890f5e4bca4f",
+    "6717a92073b332878d095bbabad4dc8bbc864e4d8641802b53aac22ecb5fcfaa",
+    "7cc81e6e3a11f8a13fb0fcdac806a9988bd8367008d49cd1e4d5c78628277321",
+    "8b0a0b9070a6fd2032345b576be46faae891f08d8e5ebf670336b980caab8653",
+    "8c418a9254682ebafac893fc6ddaac9002e3d37c488685a9deec9de4abfd99a2",
+    "8d5c5d7b7036df057ff708c5dec90908bdd9f6ac423cd28176b7fd8f93f4989c",
+    "9aa782f2e4d6f42723c2104a78330f6345860c5893767c40d68ea6e146048379",
+    "b0e258d4deb9e320bb97fa4f0e6e3641013d7ff4d3305edeecb7b38f8b0964d9",
+    "b2a8842e5a34319dc2e25e4123e9dd55dd7cd4c5afdfce284c0a16230e29a717",
+    "be4bf92eb563c73ec65827b91d000ddebe0714ef163babea0dbf5b023bbbb21c",
+    "c31b2fbb8f0d346ab9d1b94ee03433de4252408c1cdd05c2e9570179cd3bbe3c",
+    "c7b69c8de711c62d1dfeee0074a2968cb7415f28d8a3ebc7ea8a77f8b6586146",
+    "c851a00600a2a24cd10f23c766aa45c2f87ba458c77742912162fc34793f6fd3",
+    "cc52cd944befa61abf820ed913b831ce9a175f1fa80b0d5e85947ebfb85dca7e",
+    "d936e3cc7dbb382b24693e5afc845180ea738131ffe0c798e8dac6570f635845",
+    "f03a73aa5a6091f220f217af94d8bda9b247ef4c75da69effffdc02efce2611a",
+    "f1ddbe7b23660154695aec18f758649fe5a2a953e0dac38860db2d5660467edf"
+  ],
+  "scope": "visually_confirmed_subset",
+  "human_approval": false
+}
