@@ -1,0 +1,80 @@
+{
+  "translation_sha256": "f8a077791ca6648e6c4258a83cb2e3b0f26c0d74cf8bee724ec66baef3ec07c7",
+  "game_version": "Steam BuildID 13433015",
+  "platform": "Windows x64（Steam）",
+  "payload_files": [
+    {
+      "path": "Repack/Files/Lakeview Cabin 2_Data/level10",
+      "game_path": "Lakeview Cabin 2_Data/level10",
+      "sha256": "bd74541b89bdc2690d5048253b7c071da40ede73ac7937bb99dd5a17137b1a22"
+    },
+    {
+      "path": "Repack/Files/Lakeview Cabin 2_Data/sharedassets1.assets",
+      "game_path": "Lakeview Cabin 2_Data/sharedassets1.assets",
+      "sha256": "fa1a13c3d1dd13005acbb6f95ce6e3b44ca4c03088979930a87a71e5d6678235"
+    },
+    {
+      "path": "Repack/Files/Lakeview Cabin 2_Data/sharedassets10.assets",
+      "game_path": "Lakeview Cabin 2_Data/sharedassets10.assets",
+      "sha256": "5857bc572049fafc8daa5d6f6892e40a66a70ef7aca12bd18fd43c8015b524b9"
+    },
+    {
+      "path": "Repack/Files/Lakeview Cabin 2_Data/sharedassets18.assets",
+      "game_path": "Lakeview Cabin 2_Data/sharedassets18.assets",
+      "sha256": "a91865256bc999d09e512609d256753ecb3a7f66be40bd4971b7e14abaa29a14"
+    },
+    {
+      "path": "Repack/Files/Lakeview Cabin 2_Data/sharedassets4.assets",
+      "game_path": "Lakeview Cabin 2_Data/sharedassets4.assets",
+      "sha256": "f32d196108ac086df9dddc06ece53c3b8cf8acf20ab9bffd6ef3aca08aa94e72"
+    },
+    {
+      "path": "Repack/Files/Lakeview Cabin 2_Data/sharedassets40.assets",
+      "game_path": "Lakeview Cabin 2_Data/sharedassets40.assets",
+      "sha256": "9b218fa7a10b26604b3594023ee59d8b3185017a30201f3e07b16b98e8b309b9"
+    },
+    {
+      "path": "Repack/Files/Lakeview Cabin 2_Data/sharedassets41.assets",
+      "game_path": "Lakeview Cabin 2_Data/sharedassets41.assets",
+      "sha256": "273690068e107d3a7719a589c72ae8e9f76aa05b2f0ab5d8f92f5ef163735998"
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "TranslateFiles/reports/user_game_test_confirmation.json",
+      "sha256": "5aeccc29717242ec3be9fee62dbb03eec23a74c4994a114b7248d82943a9c2fd"
+    }
+  ],
+  "checks": [
+    {
+      "category": "fonts",
+      "status": "pass",
+      "scene": "标题、人数/控制器选择、初代教程",
+      "notes": "用户在本聊天中明确确认已测试且中文显示正常；确认问题明确包含没有缺字。发布载荷与其测试前的安装回执哈希一致。"
+    },
+    {
+      "category": "layout",
+      "status": "pass",
+      "scene": "标题、人数/控制器选择、初代教程",
+      "notes": "用户明确确认上述界面中文正常，问题已明确询问无裁切；载荷与历史安装回执一致。"
+    },
+    {
+      "category": "ui",
+      "status": "pass",
+      "scene": "标题、人数/控制器选择、初代教程；暂停菜单及交互提示",
+      "notes": "用户实测并提供暂停菜单/交互提示截图，图标疑问经原版比对解释后接受并要求发布。"
+    },
+    {
+      "category": "dialogue",
+      "status": "not_applicable",
+      "scene": "",
+      "notes": "当前提取和汉化范围为片尾字幕及图片界面/教程文字，不含对白数据。"
+    },
+    {
+      "category": "quest",
+      "status": "not_applicable",
+      "scene": "",
+      "notes": "当前汉化数据没有任务日志/任务文本；原版图示交互保持不变。"
+    }
+  ]
+}

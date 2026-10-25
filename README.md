@@ -48,7 +48,7 @@
 ## 翻译
 - 路线：API，共用 translation_workflow.py / run_api_round.py。接口按工作区 api.local.jsonc 的已启用优先级与故障切换配置执行；凭据不入库。当前首选 yjapi / deepseek-v4.1-flash，具体真实调用记录保留在本地 reports/api_runs。
 - 常规文本术语：已完成全文提取、独立语义审校和冻结，r2，non_translate 保留 Denis；人物名单不进入翻译片段，不改原拼写。
-- 常规文本：4条全部完成API正式翻译、草稿校验及独立六维语义审校；无遗留争议，程序最终导出通过，正式文件 lakeview-cabin-2_text_translated.csv。已安装，实机状态待用户测试。
+- 常规文本：4条全部完成API正式翻译、草稿校验及独立六维语义审校；无遗留争议，程序最终导出通过，正式文件 lakeview-cabin-2_text_translated.csv。用户已确认标题、人数/控制器选择和初代教程中文正常，发布验收通过。
 - 占位符：由共用程序保护；字幕空行及原人员名单由回填映射保留。
 - 图片文本：独立 TranslateFiles/image-text 子工程；22条全部完成术语提取、独立术语语义审校、试译校准、正式翻译及独立六维审校。r2冻结7项专名，保护标题换行、Z/X按键及作者/公司/平台名。
 - 图片正式译文：lakeview-cabin-2_images_text_translated.csv；源文/译文哈希、22条对齐及全部程序门槛通过，真实审校结果另存 reports/delivery_review_evidence.json。无遗留争议，不增加额外全文复审。
@@ -63,10 +63,10 @@
 - 精灵：保留原始m_Rect、pivot及像素单位；把受影响的英文tight mesh改为完整矩形，恢复其透明边距范围并保持源图UV位置，避免中文被原英文字母轮廓裁掉。
 - 静态验证：全部图片预览已查看；12张纹理像素回读一致；20个精灵从写回后的资产实际导出，与中文PNG原切片逐像素一致；所有未修改对象的raw payload与原件相同。见 Repack/static_validation.json。
 - 备份：Repack/Originals；载荷副本：Repack/Files。恢复命令：`python Analysis/install_patch.py restore`。安装/恢复均先核对全部文件版本哈希，再写入并回读核验。
-- 实机验证：待用户测试。Agent未启动游戏，也未控制桌面。具体检查顺序见 TESTING.md，待测记录位于 TranslateFiles/reports/in_game_check.pending.json；未将pending伪装为通过。
+- 实机验证：用户确认标题、人数/控制器选择和初代教程中文正常、无缺字或裁切；记录见 TranslateFiles/reports/in_game_check.json。常规/图片子工程release-check均通过。Agent未启动游戏；未完整通关。当前游戏目录已恢复原版，本次发布未重新覆盖；发布文件仍与此前安装回执完全一致。
 
 ## 已知问题
-- 尚未实机确认字体、布局、运行与存档；当前仅静态验收及安装哈希通过。
+- 用户已完成代表性中文界面实测；未完整通关，未验证全部结局、隐藏场景和长期存档。
 - 27张保留清单含开发参考素材、数字/罗马数字/字形/品牌图形，以及不能可靠转写的极小装饰文字、报纸/罐体标签和手写痕迹，保持原图。全量OCR和筛选抽查不能证明全游戏没有漏字。
 - 原游戏大量菜单与玩法说明使用图形图标，维持原设计。原版姓名、按键、编号和方向符号不作中文替换。
 
@@ -83,3 +83,15 @@
 - PauseMenuIcons与GuiKeyboardButtonPrompts所在sharedassets2.assets，安装后SHA-256仍与原文件完全一致。sharedassets4.assets中补充键位贴图及两个相关精灵也逐对象与原备份一致。
 - 默认键盘映射包含Z=Pick、X=Throw、↑=Use；双人键盘备用映射为C=Pick、V=Throw、W=Use。同一套方框图形被不同键位复用，因此没有把公共贴图写死成Z/X。
 - 调查记录：Analysis/user_feedback_20261026/investigation.json。此次没有修改游戏文件；这两张截图不能代替全部中文字体/布局实测。
+
+## 对外发布
+- 补丁：`Dispatch/湖景小屋2_子非鱼汉化1.0.zip`，标题《湖景小屋2》子非鱼AI汉化补丁 v1.0。
+- 支持版本/平台：Steam BuildID 13433015 / Windows x64（Steam）。
+- 载荷：7个修改后的Unity资源文件；清单见 Dispatch/PATCH_MANIFEST.json；不含游戏EXE、原版备份、API凭据或开发日志。
+- 验证：两套正式翻译的release-check通过；用户确认代表性中文界面正常；ZIP解压覆盖模拟、10项文件白名单及SHA-256校验通过。
+- 已知问题：少量极小装饰文字保留原样；原版图标设计保留；未完整通关，仅支持已测试构建。
+- 项目：https://github.com/zfyu222/lakeview-cabin-2
+- GitHub Release：https://github.com/zfyu222/lakeview-cabin-2/releases/tag/v1.0 （发布上传中）
+- 后续补丁可能更新，建议关注或订阅本项目GitHub仓库 / Releases。
+
+- 2026-10-26 - 根据用户实测确认完成发布验收，制作v1.0发布包，开始上传独立公开仓库与GitHub Release。

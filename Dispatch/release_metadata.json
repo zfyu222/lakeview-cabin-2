@@ -1,0 +1,14 @@
+{
+  "game_name": "湖景小屋2",
+  "introduction": "为《Lakeview Cabin 2》（湖景小屋2）Steam Windows版制作的简体中文汉化补丁，包含可确认的常规字幕与图片文字。",
+  "coverage": "常规片尾字幕4条；图片原文22条，对应标题、人数/控制器选择、初代教程与结尾等28处位置，涉及12张贴图。保留原版人名、按键、数字和图形标识。",
+  "game_version": "Steam BuildID 13433015",
+  "platform": "Windows x64（Steam）",
+  "release_date": "2026-10-26",
+  "install": "先退出游戏。Steam库中右键游戏 → 管理 → 浏览本地文件，打开游戏根目录（可见 Lakeview Cabin 2.exe）。请务必把本次将覆盖的7个原文件备份到游戏目录之外：Lakeview Cabin 2_Data 下的 level10、sharedassets1.assets、sharedassets4.assets、sharedassets10.assets、sharedassets18.assets、sharedassets40.assets、sharedassets41.assets。将补丁中的 Lakeview Cabin 2_Data 文件夹复制到游戏根目录，选择合并文件夹并替换这7个文件，然后正常启动游戏。本补丁不需要安装MOD加载器。",
+  "uninstall": "退出游戏，用安装前的备份恢复上述7个文件；没有备份时，可通过Steam的“验证游戏文件完整性”恢复官方资源。不要直接删除游戏的assets文件。",
+  "verification": "用户已在对应安装版本确认标题、人数/控制器选择及初代教程的中文正常，无缺字或裁切。发布载荷与当时安装回执的SHA-256一致；程序完成纹理、精灵切片、字体与未修改对象的静态核验。未进行完整通关，也未验证所有隐藏场景。",
+  "known_issues": "少量极小装饰文字、报纸/罐体小字、字形或语言无关标记保留原图，不能保证所有场景零漏字。ESC暂停菜单本来就是扳手/箭头等图标；交互物旁的并排方框也是原版按键图标，并非缺字。默认键盘Z拾取、X投掷、↑使用；双人键盘另一套为C/V/W，实际以游戏模式为准。仅验证上述Steam构建，不保证其他平台或更新版本兼容。",
+  "repository": "https://github.com/zfyu222/lakeview-cabin-2",
+  "release_url": "https://github.com/zfyu222/lakeview-cabin-2/releases/tag/v1.0"
+}

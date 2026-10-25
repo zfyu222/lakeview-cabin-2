@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "archive": "湖景小屋2_子非鱼汉化1.0.zip",
+  "sha256": "39cdbfc2f77bd119e0c4465beacc7c42e43b9901d757bd9ae1aef64210d9ea54",
+  "size": 8590919,
+  "files": 10,
+  "payload_files": 7,
+  "checks": [
+    "shared release-check passed",
+    "ZIP exact file allowlist",
+    "UTF-8 BOM Chinese guide",
+    "ZIP integrity",
+    "sparse clean-copy installation over all seven original files",
+    "all installed payload and checksum hashes match user-tested payload"
+  ],
+  "note": "Archive install simulation is static; user in-game verification is recorded separately. No game launch by agent."
+}
