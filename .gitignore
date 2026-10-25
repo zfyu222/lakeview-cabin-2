@@ -19,3 +19,21 @@ Desktop.ini
 .DS_Store
 .vscode/
 .idea/
+# Local extraction evidence and rebuild outputs
+/decompiled/
+/string_scan.json
+/fsm_text_extract.json
+/Analysis/display_text.json
+/Analysis/playmaker_values.json
+/Analysis/textures.json
+/Analysis/extract.log
+/ImageText/exported/
+/ImageText/work/
+/Repack/Fonts/
+/Repack/Originals/
+/Repack/Files/
+/ImagePatch/
+/TranslateFiles/state/
+/TranslateFiles/logs/
+/TranslateFiles/backups/
+/TranslateFiles/cache/

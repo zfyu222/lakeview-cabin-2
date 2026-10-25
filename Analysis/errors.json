@@ -1,0 +1,32 @@
+[
+  {
+    "file": "resources.assets",
+    "path_id": 73,
+    "type": "Texture2D",
+    "error": "[Errno 13] Permission denied: 'D:/Program Files (x86)/Steam/steamapps/common/Lakeview Cabin 2/Lakeview Cabin 2_Data'"
+  },
+  {
+    "file": "resources.assets",
+    "path_id": 120,
+    "type": "Texture2D",
+    "error": "[Errno 13] Permission denied: 'D:/Program Files (x86)/Steam/steamapps/common/Lakeview Cabin 2/Lakeview Cabin 2_Data'"
+  },
+  {
+    "file": "resources.assets",
+    "path_id": 134,
+    "type": "Texture2D",
+    "error": "[Errno 13] Permission denied: 'D:/Program Files (x86)/Steam/steamapps/common/Lakeview Cabin 2/Lakeview Cabin 2_Data'"
+  },
+  {
+    "file": "sharedassets10.assets",
+    "path_id": 3,
+    "type": "Texture2D",
+    "error": "[Errno 13] Permission denied: 'D:/Program Files (x86)/Steam/steamapps/common/Lakeview Cabin 2/Lakeview Cabin 2_Data'"
+  },
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 32,
+    "type": "Texture2D",
+    "error": "[Errno 13] Permission denied: 'D:/Program Files (x86)/Steam/steamapps/common/Lakeview Cabin 2/Lakeview Cabin 2_Data'"
+  }
+]

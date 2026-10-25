@@ -2,6 +2,6 @@
   "schema": 1,
   "image_translation": {
     "status": "enabled",
-    "reason": "User choice at initialization"
+    "reason": "2026-10-25 用户明确要求接手汉化，使用API模式并开启图片汉化"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "mode": "exact_fragments_with_original_layout",
+  "records": [
+    "Directed by",
+    "With help from",
+    "In memory of Denis.",
+    "THE END"
+  ],
+  "occurrences": [
+    {
+      "file": "level10",
+      "path_id": 24,
+      "type": "MonoBehaviour",
+      "script": "UnityEngine.UI.Text",
+      "field": "m_Text",
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDirected by\n\nRoope Tamminen\n\n\n\n\n\n\n\n\n\nWith help from\n\nAleksi-Mikael Ronkainen\nAlex Dressler\nAlexey Korchagin\nAllen J\nArttu Pyykönen\nAustin Eicholz\nBeckham\nCallMeMike\nEssi Tamminen\nFerretBandit\nHeath/Miskatonic\nHerbert Boland\nJesse Cutrell\nJoonas Hilander\nKalle Suonkanta\nLassi Tamminen\nMahir Bilir\nOwel\nPunkshark\nSarah!\nSophie\nThat'sNotEvenFunny\n\n\n\n\n\n\n\n\n\n\n\n\nIn memory of Denis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTHE END"
+    }
+  ],
+  "excluded": {
+    "resolutions": "Numeric values, built dynamically; no translation needed",
+    "resources.assets UI": "Unity debug UI library templates, not player-facing game text",
+    "PlayMaker": "1193 unique values checked with text setter action contexts; runtime text setters only construct numeric resolution strings. SecretKey Solve is an unconsumed BuildString debug value."
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "file": "resources.assets",
+    "path_id": 176,
+    "type": "Font",
+    "name": "Perfect DOS VGA 437",
+    "font_names": [
+      "Perfect DOS VGA 437"
+    ],
+    "data_size": 81192
+  },
+  {
+    "file": "resources.assets",
+    "path_id": 177,
+    "type": "Font",
+    "name": "LiberationSans",
+    "font_names": [
+      "Liberation Sans"
+    ],
+    "data_size": 350200
+  },
+  {
+    "file": "sharedassets10.assets",
+    "path_id": 5,
+    "type": "Font",
+    "name": "PixelOperator",
+    "font_names": [
+      "Pixel Operator"
+    ],
+    "data_size": 17272
+  },
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 724,
+    "type": "Font",
+    "name": "UAV-OSD-Mono",
+    "font_names": [
+      "UAV OSD Mono"
+    ],
+    "data_size": 12636
+  }
+]
