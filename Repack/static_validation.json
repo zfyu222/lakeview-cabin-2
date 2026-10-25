@@ -1,0 +1,335 @@
+{
+  "status": "passed_static_pending_user_test",
+  "counts": {
+    "text": 1,
+    "texture": 12,
+    "sprite": 20,
+    "font": 1
+  },
+  "sprite_roundtrip": [
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 55,
+      "name": "Lakeview Cabin 2 Player Choice_1",
+      "rect": {
+        "x": 538.0,
+        "y": 488.0,
+        "width": 367.0,
+        "height": 94.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 56,
+      "name": "Lakeview Cabin 2 Player Choice_8",
+      "rect": {
+        "x": 4.0,
+        "y": 24.0,
+        "width": 484.0,
+        "height": 54.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 58,
+      "name": "Lakeview Cabin 2 Title",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1024.0,
+        "height": 640.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 60,
+      "name": "Title Screen Presents",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 514.0,
+        "height": 119.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 66,
+      "name": "Lakeview Cabin 2 Player Choice_0",
+      "rect": {
+        "x": 100.0,
+        "y": 488.0,
+        "width": 367.0,
+        "height": 94.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 68,
+      "name": "Lakeview Cabin 2 Player ChoiceControllers_4",
+      "rect": {
+        "x": 772.0,
+        "y": 552.0,
+        "width": 218.0,
+        "height": 52.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 69,
+      "name": "Lakeview Cabin 2 Player Choice_3",
+      "rect": {
+        "x": 538.0,
+        "y": 367.0,
+        "width": 367.0,
+        "height": 94.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 70,
+      "name": "Lakeview Cabin 2 Player ChoiceControllers_5",
+      "rect": {
+        "x": 772.0,
+        "y": 464.0,
+        "width": 225.0,
+        "height": 52.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 71,
+      "name": "Lakeview Cabin 2 Player Choice_5",
+      "rect": {
+        "x": 538.0,
+        "y": 246.0,
+        "width": 367.0,
+        "height": 94.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 72,
+      "name": "Lakeview Cabin 2 Player Choice_2",
+      "rect": {
+        "x": 100.0,
+        "y": 367.0,
+        "width": 367.0,
+        "height": 94.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 73,
+      "name": "Lakeview Cabin 2 Player Choice_9",
+      "rect": {
+        "x": 528.0,
+        "y": 24.0,
+        "width": 484.0,
+        "height": 48.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 74,
+      "name": "Lakeview Cabin 2 Player ChoiceControllers_10",
+      "rect": {
+        "x": 471.0,
+        "y": 266.0,
+        "width": 143.0,
+        "height": 71.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets18.assets",
+      "path_id": 1014,
+      "name": "FauxCredits2",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 320.0,
+        "height": 320.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets40.assets",
+      "path_id": 576,
+      "name": "LakeviewCabin1GameOver",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 512.0,
+        "height": 256.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets40.assets",
+      "path_id": 578,
+      "name": "LakeviewCabin1EndingCredit",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 512.0,
+        "height": 256.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets40.assets",
+      "path_id": 580,
+      "name": "LakeviewCabin1TitleCard",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 512.0,
+        "height": 256.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets40.assets",
+      "path_id": 582,
+      "name": "WatermarkWarning",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 281.0,
+        "height": 39.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets40.assets",
+      "path_id": 587,
+      "name": "Cabin1Tutorials_1",
+      "rect": {
+        "x": 35.0,
+        "y": 29.0,
+        "width": 197.0,
+        "height": 17.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets40.assets",
+      "path_id": 762,
+      "name": "Cabin1Tutorials_0",
+      "rect": {
+        "x": 32.0,
+        "y": 73.0,
+        "width": 204.0,
+        "height": 21.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    },
+    {
+      "file": "sharedassets41.assets",
+      "path_id": 35,
+      "name": "LakeviewCabin1EndingCredit2",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 512.0,
+        "height": 256.0
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "pixel_match": true
+    }
+  ],
+  "font_sha256": "4c8cc2c4c786d6b002f3c10662fb0ec9f70df34c392d96e5dc17cf8ce05b70b1",
+  "unchanged_objects": "Builder compared every unmodified object raw payload with original; all identical.",
+  "in_game_check": "pending_user",
+  "game_version": "Steam Windows x64 BuildID 13433015"
+}

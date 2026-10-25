@@ -31,7 +31,7 @@
 |------|------|------|
 | 提取 | UnityPy + TypeTreeGenerator（修正节点对齐/数组）；本地图片三级流程 | UnityPy 1.25.4 / Unity 2019.4.34f1 |
 | 翻译 | 共用API流程；DeepSeek（本机优先级接口） | translation_workflow.py 当前工作区版 |
-| 回填 |  |  |
+| 回填 | UnityPy序列化资源替换；Noto Sans SC Regular中文字体 | UnityPy 1.25.4 / 字重400静态实例 |
 
 ## 文本提取
 - 引擎：Unity 2019.4.34f1，Mono。只读扫描全部 level / sharedassets / resources 序列化资源。
@@ -48,20 +48,32 @@
 ## 翻译
 - 路线：API，共用 translation_workflow.py / run_api_round.py。接口按工作区 api.local.jsonc 的已启用优先级与故障切换配置执行；凭据不入库。当前首选 yjapi / deepseek-v4.1-flash，具体真实调用记录保留在本地 reports/api_runs。
 - 常规文本术语：已完成全文提取、独立语义审校和冻结，r2，non_translate 保留 Denis；人物名单不进入翻译片段，不改原拼写。
-- 常规文本：4条全部完成API正式翻译、草稿校验及独立六维语义审校；无遗留争议，程序最终导出通过，正式文件 lakeview-cabin-2_text_translated.csv。实机状态待回填/用户测试。
+- 常规文本：4条全部完成API正式翻译、草稿校验及独立六维语义审校；无遗留争议，程序最终导出通过，正式文件 lakeview-cabin-2_text_translated.csv。已安装，实机状态待用户测试。
 - 占位符：由共用程序保护；字幕空行及原人员名单由回填映射保留。
 - 图片文本：独立 TranslateFiles/image-text 子工程；22条全部完成术语提取、独立术语语义审校、试译校准、正式翻译及独立六维审校。r2冻结7项专名，保护标题换行、Z/X按键及作者/公司/平台名。
 - 图片正式译文：lakeview-cabin-2_images_text_translated.csv；源文/译文哈希、22条对齐及全部程序门槛通过，真实审校结果另存 reports/delivery_review_evidence.json。无遗留争议，不增加额外全文复审。
 - 图片合入：game-image-repack 验证生成overlay描述，再由 Analysis/render_image_patch.py 生成12张同尺寸中文贴图、28处文本，已查看全部静态预览。保留透明背景、空心字、镜像字幕、初代金色标题及所有未翻译图形。
 
 ## 回填
-- 工具/命令：
-- 步骤：
-- 验证方法：
+- 支持本机版本：Steam Windows x64，BuildID 13433015；以 Analysis/source_hashes.json 的原文件哈希为准。
+- 构建：`python Analysis/scan_sprite_slices.py` → `game-image-repack build --mode overlay` → `python Analysis/render_image_patch.py` → `python Analysis/build_patch.py` → `python Analysis/verify_patch.py`。
+- 安装：`python Analysis/install_patch.py install`；已于2026-10-26安装到 Game 指向的真实游戏目录，7个文件全部与项目内载荷SHA-256一致，见 Repack/install_receipt.json。
+- 修改：level10；sharedassets1.assets、sharedassets4.assets、sharedassets10.assets、sharedassets18.assets、sharedassets40.assets、sharedassets41.assets。对应1处片尾字幕、12张贴图、20个文字精灵网格、1个动态TrueType字体。
+- 字体：Noto Sans SC 字重400静态实例；字体缺字检查通过。片尾空行及原姓名保留。
+- 精灵：保留原始m_Rect、pivot及像素单位；把受影响的英文tight mesh改为完整矩形，恢复其透明边距范围并保持源图UV位置，避免中文被原英文字母轮廓裁掉。
+- 静态验证：全部图片预览已查看；12张纹理像素回读一致；20个精灵从写回后的资产实际导出，与中文PNG原切片逐像素一致；所有未修改对象的raw payload与原件相同。见 Repack/static_validation.json。
+- 备份：Repack/Originals；载荷副本：Repack/Files。恢复命令：`python Analysis/install_patch.py restore`。安装/恢复均先核对全部文件版本哈希，再写入并回读核验。
+- 实机验证：待用户测试。Agent未启动游戏，也未控制桌面。具体检查顺序见 TESTING.md，待测记录位于 TranslateFiles/reports/in_game_check.pending.json；未将pending伪装为通过。
 
 ## 已知问题
+- 尚未实机确认字体、布局、运行与存档；当前仅静态验收及安装哈希通过。
+- 27张保留清单含开发参考素材、数字/罗马数字/字形/品牌图形，以及不能可靠转写的极小装饰文字、报纸/罐体标签和手写痕迹，保持原图。全量OCR和筛选抽查不能证明全游戏没有漏字。
+- 原游戏大量菜单与玩法说明使用图形图标，维持原设计。原版姓名、按键、编号和方向符号不作中文替换。
+
 
 ## 版本记录
 - 2026-10-25 - 初始化汉化项目工作区（start-translate skill）
 
 - 2026-10-25 - 接手旧工程，修正Unity序列化解析，提取正式字幕原文并启动图片文字流程；用户指定API、图片汉化启用、自行实机测试。
+
+- 2026-10-26 - 完成4条字幕及22条图片原文的API正式翻译、独立审校和导出；生成12张中文贴图，修复20个精灵文字网格；7个文件静态核验并安装，等待用户首轮测试。

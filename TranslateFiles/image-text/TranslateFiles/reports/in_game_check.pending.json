@@ -1,0 +1,40 @@
+{
+  "translation_sha256": "c4b4d283569650b4062a6ccf758d9fc7ad4a89dc68a5c257c912667710dac2b7",
+  "game_version": "Steam BuildID 13433015",
+  "platform": "Windows x64",
+  "payload_files": [],
+  "evidence_files": [],
+  "checks": [
+    {
+      "category": "fonts",
+      "status": "pending",
+      "scene": "",
+      "notes": "待用户实机确认。"
+    },
+    {
+      "category": "layout",
+      "status": "pending",
+      "scene": "",
+      "notes": "待用户实机确认。"
+    },
+    {
+      "category": "ui",
+      "status": "pending",
+      "scene": "",
+      "notes": "待用户实机确认。"
+    },
+    {
+      "category": "dialogue",
+      "status": "pending",
+      "scene": "",
+      "notes": "待用户实机确认。"
+    },
+    {
+      "category": "quest",
+      "status": "pending",
+      "scene": "",
+      "notes": "待用户实机确认。"
+    }
+  ],
+  "notes": "已安装，用户自行测试。当前所有检查保持pending；静态资源验证不代替实机结果。"
+}

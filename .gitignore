@@ -47,3 +47,5 @@ Desktop.ini
 /Analysis/sprite_slices.json
 /ImageText/*-dark.png
 /ImageText/qwen_resume.log
+/Repack/build.log
+/Repack/sprite_preview/

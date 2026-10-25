@@ -1,806 +1,753 @@
 {
-  "purpose": "Archive of actual independent API review results; no new semantic decisions.",
-  "items": [
+  "purpose": "Accepted independent semantic review report; full batch payloads remain in ignored local results.",
+  "records": [
     {
-      "source_result": "TranslateFiles\\results\\review-r2-00001-bbc9fee8\\aef266d3bfa43e8b0b709a33bff5b227.json",
-      "result": {
-        "task_id": "review-r2-00001-bbc9fee8",
-        "input_hash": "a883c1edf101a2a0aa6dd68d91ef8ee604ceb3180648f3db9dbc6095d84fa407",
-        "records": [
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "玩家选择界面的短标签，简洁自然。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000001_27a99f01e1",
-            "issues": [],
-            "reason": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
-            "reviewed": true,
-            "source_excerpt": "Player 1",
-            "translation": "玩家 1"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "玩家选择界面的短标签，简洁自然。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000002_4b67834a4c",
-            "issues": [],
-            "reason": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
-            "reviewed": true,
-            "source_excerpt": "Player 2",
-            "translation": "玩家 2"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "按钮用语简洁清楚。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000003_565339bc4d",
-            "issues": [],
-            "reason": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
-            "reviewed": true,
-            "source_excerpt": "OK",
-            "translation": "确定"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Back 为返回动作，译文“返回”与界面功能一致。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Back 为返回动作，译文“返回”与界面功能一致。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Back 为返回动作，译文“返回”与界面功能一致。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "按钮用语简洁清楚。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000004_76900f1bfd",
-            "issues": [],
-            "reason": "Back 为返回动作，译文“返回”与界面功能一致。",
-            "reviewed": true,
-            "source_excerpt": "Back",
-            "translation": "返回"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "无变量标签；换行属于原文排版，不是占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "命中 t1，译文“湖景\\n小屋2”与 required 术语一致，并保留原换行。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "标题卡口吻庄重简洁，引号保留。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000005_55e3070d7e",
-            "issues": [],
-            "reason": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
-            "reviewed": true,
-            "source_excerpt": "“LAKEVIEW\nCABIN 2”",
-            "translation": "“湖景\n小屋2”"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "命中 t2，公司名按 required 术语原样保留。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "版权行正式简洁。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000006_8a01d62000",
-            "issues": [],
-            "reason": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
-            "reviewed": true,
-            "source_excerpt": "copyright by HypnoGames Company Inc.",
-            "translation": "版权归 HypnoGames Company Inc. 所有"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "命中 t3，人名按 required 术语原样保留。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "片头字幕式短句，简洁自然。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000007_7a01fbbab7",
-            "issues": [],
-            "reason": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
-            "reviewed": true,
-            "source_excerpt": "Roope Tamminen presents",
-            "translation": "Roope Tamminen 出品"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "人数选项清楚简短。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000008_fef3e59efd",
-            "issues": [],
-            "reason": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
-            "reviewed": true,
-            "source_excerpt": "1 player",
-            "translation": "1 名玩家"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "人数选项清楚简短。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000009_205592f97b",
-            "issues": [],
-            "reason": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
-            "reviewed": true,
-            "source_excerpt": "2 players",
-            "translation": "2 名玩家"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "人数选项清楚简短。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000010_9fafd7e9e6",
-            "issues": [],
-            "reason": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
-            "reviewed": true,
-            "source_excerpt": "3 players",
-            "translation": "3 名玩家"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "人数选项清楚简短。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000011_edfdf192aa",
-            "issues": [],
-            "reason": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
-            "reviewed": true,
-            "source_excerpt": "4 players",
-            "translation": "4 名玩家"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "无变量、标签或占位符；书名号属正常排版。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "命中 t4，初代标题按 required 术语“湖景小屋1”处理。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "菜单入口简洁清楚。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000012_f855ddc642",
-            "issues": [],
-            "reason": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
-            "reviewed": true,
-            "source_excerpt": "Play Lakeview Cabin 1",
-            "translation": "游玩《湖景小屋1》"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "片尾字幕标题简洁。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000013_783deb1acc",
-            "issues": [],
-            "reason": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
-            "reviewed": true,
-            "source_excerpt": "Directed by",
-            "translation": "导演"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "片尾字幕标题简洁。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000014_37deae9057",
-            "issues": [],
-            "reason": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
-            "reviewed": true,
-            "source_excerpt": "With help from",
-            "translation": "协助制作"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "换行按原文保留，无变量标签。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "便条口吻自然，省略号保留停顿感。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000015_1bc61232db",
-            "issues": [],
-            "reason": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
-            "reviewed": true,
-            "source_excerpt": "Not done\nyet...",
-            "translation": "还没\n完成……"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "THE END 表示结束，译文“剧终”准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "THE END 表示结束，译文“剧终”准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "THE END 表示结束，译文“剧终”准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "结束字幕简洁。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000016_34a70d32ee",
-            "issues": [],
-            "reason": "THE END 表示结束，译文“剧终”准确。",
-            "reviewed": true,
-            "source_excerpt": "THE END",
-            "translation": "剧终"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Use Arrow keys to move 表示用方向键移动，译文准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Use Arrow keys to move 表示用方向键移动，译文准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Use Arrow keys to move 表示用方向键移动，译文准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "无变量标签；省略号保留。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "教程提示简洁。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000017_328a676ee0",
-            "issues": [],
-            "reason": "Use Arrow keys to move 表示用方向键移动，译文准确。",
-            "reviewed": true,
-            "source_excerpt": "Use Arrow keys to move...",
-            "translation": "使用方向键移动……"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "Z、X 为原文固定按键内容而非占位符，标签未改变。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "教程提示简洁。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000018_9a7f167462",
-            "issues": [],
-            "reason": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
-            "reviewed": true,
-            "source_excerpt": "Use Z and X to interact...",
-            "translation": "使用 Z 和 X 互动……"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "换行按原文保留，无变量标签。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "命中 t5，译文“湖景\\n小屋”与 required 术语一致。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "标题卡口吻简洁。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000019_138af188d0",
-            "issues": [],
-            "reason": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
-            "reviewed": true,
-            "source_excerpt": "Lakeview\nCabin",
-            "translation": "湖景\n小屋"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "命中 t3，人名按 required 术语原样保留。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "片头字幕简洁，省略号保留。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000020_7e28689db3",
-            "issues": [],
-            "reason": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
-            "reviewed": true,
-            "source_excerpt": "Roope Tamminen presents...",
-            "translation": "Roope Tamminen 出品……"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "无变量标签；两行换行保留。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "命中 t6，YouTube 按 required 术语保留品牌名。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "保留粗口力度和威胁口吻，“蠢货”对应 dipshit，第二人称警告自然。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000021_e08280e1af",
-            "issues": [],
-            "reason": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
-            "reviewed": true,
-            "source_excerpt": "DON'T SHARE ON YOUTUBE YOU DIPSHIT.\nI'M WATCHING YOU!",
-            "translation": "别分享到 YouTube 上，你个蠢货。\n我盯着你呢！"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "To be concluded 表示待续/未完待续，译文准确。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "To be concluded 表示待续/未完待续，译文准确。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "To be concluded 表示待续/未完待续，译文准确。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文无变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条无术语表条目。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "片尾字幕简洁，省略号保留。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000022_0e97c71572",
-            "issues": [],
-            "reason": "To be concluded 表示待续/未完待续，译文准确。",
-            "reviewed": true,
-            "source_excerpt": "To be concluded...",
-            "translation": "未完待续……"
-          }
-        ]
-      }
+      "id": "R0000001_27a99f01e1",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "玩家选择界面的短标签，简洁自然。",
+          "status": "pass"
+        }
+      },
+      "reason": "Player 1 指第一名玩家，译文“玩家 1”保持编号与名词关系，无增减。",
+      "source_excerpt": "Player 1",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000002_4b67834a4c",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "玩家选择界面的短标签，简洁自然。",
+          "status": "pass"
+        }
+      },
+      "reason": "Player 2 指第二名玩家，译文“玩家 2”保持编号与名词关系，无增减。",
+      "source_excerpt": "Player 2",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000003_565339bc4d",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "按钮用语简洁清楚。",
+          "status": "pass"
+        }
+      },
+      "reason": "OK 为界面确认按钮，译文“确定”词义与功能一致。",
+      "source_excerpt": "OK",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000004_76900f1bfd",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Back 为返回动作，译文“返回”与界面功能一致。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Back 为返回动作，译文“返回”与界面功能一致。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Back 为返回动作，译文“返回”与界面功能一致。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "按钮用语简洁清楚。",
+          "status": "pass"
+        }
+      },
+      "reason": "Back 为返回动作，译文“返回”与界面功能一致。",
+      "source_excerpt": "Back",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000005_55e3070d7e",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "无变量标签；换行属于原文排版，不是占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "命中 t1，译文“湖景\\n小屋2”与 required 术语一致，并保留原换行。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "标题卡口吻庄重简洁，引号保留。",
+          "status": "pass"
+        }
+      },
+      "reason": "标题为“LAKEVIEW CABIN 2”，译文“湖景小屋2”保留引号、换行及续作编号2。",
+      "source_excerpt": "“LAKEVIEW\nCABIN 2”",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000006_8a01d62000",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "命中 t2，公司名按 required 术语原样保留。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "版权行正式简洁。",
+          "status": "pass"
+        }
+      },
+      "reason": "版权署名中 HypnoGames Company Inc. 为权利方，译文“版权归 HypnoGames Company Inc. 所有”准确表达归属。",
+      "source_excerpt": "copyright by HypnoGames Company Inc.",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000007_7a01fbbab7",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "命中 t3，人名按 required 术语原样保留。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "片头字幕式短句，简洁自然。",
+          "status": "pass"
+        }
+      },
+      "reason": "Roope Tamminen presents 表示由 Roope Tamminen 出品，译文“Roope Tamminen 出品”准确。",
+      "source_excerpt": "Roope Tamminen presents",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000008_fef3e59efd",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "人数选项清楚简短。",
+          "status": "pass"
+        }
+      },
+      "reason": "1 player 表示单人游玩选项，译文“1 名玩家”数量与单位准确。",
+      "source_excerpt": "1 player",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000009_205592f97b",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "人数选项清楚简短。",
+          "status": "pass"
+        }
+      },
+      "reason": "2 players 表示双人游玩选项，译文“2 名玩家”数量与复数关系准确。",
+      "source_excerpt": "2 players",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000010_9fafd7e9e6",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "人数选项清楚简短。",
+          "status": "pass"
+        }
+      },
+      "reason": "3 players 表示三人游玩选项，译文“3 名玩家”数量与复数关系准确。",
+      "source_excerpt": "3 players",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000011_edfdf192aa",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "人数选项清楚简短。",
+          "status": "pass"
+        }
+      },
+      "reason": "4 players 表示四人游玩选项，译文“4 名玩家”数量与复数关系准确。",
+      "source_excerpt": "4 players",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000012_f855ddc642",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "无变量、标签或占位符；书名号属正常排版。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "命中 t4，初代标题按 required 术语“湖景小屋1”处理。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "菜单入口简洁清楚。",
+          "status": "pass"
+        }
+      },
+      "reason": "Play 表示启动/游玩，Lakeview Cabin 1 为初代标题，译文“游玩《湖景小屋1》”准确。",
+      "source_excerpt": "Play Lakeview Cabin 1",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000013_783deb1acc",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "片尾字幕标题简洁。",
+          "status": "pass"
+        }
+      },
+      "reason": "Directed by 是导演署名标题，译文“导演”准确表达该标题功能。",
+      "source_excerpt": "Directed by",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000014_37deae9057",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "片尾字幕标题简洁。",
+          "status": "pass"
+        }
+      },
+      "reason": "With help from 表示协助者名单标题，译文“协助制作”在片尾署名语境中准确。",
+      "source_excerpt": "With help from",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000015_1bc61232db",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "换行按原文保留，无变量标签。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "便条口吻自然，省略号保留停顿感。",
+          "status": "pass"
+        }
+      },
+      "reason": "Not done yet 表示尚未完成，译文“还没\\n完成……”保持否定和未完成含义。",
+      "source_excerpt": "Not done\nyet...",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000016_34a70d32ee",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "THE END 表示结束，译文“剧终”准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "THE END 表示结束，译文“剧终”准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "THE END 表示结束，译文“剧终”准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "结束字幕简洁。",
+          "status": "pass"
+        }
+      },
+      "reason": "THE END 表示结束，译文“剧终”准确。",
+      "source_excerpt": "THE END",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000017_328a676ee0",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Use Arrow keys to move 表示用方向键移动，译文准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Use Arrow keys to move 表示用方向键移动，译文准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Use Arrow keys to move 表示用方向键移动，译文准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "无变量标签；省略号保留。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "教程提示简洁。",
+          "status": "pass"
+        }
+      },
+      "reason": "Use Arrow keys to move 表示用方向键移动，译文准确。",
+      "source_excerpt": "Use Arrow keys to move...",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000018_9a7f167462",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "Z、X 为原文固定按键内容而非占位符，标签未改变。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "教程提示简洁。",
+          "status": "pass"
+        }
+      },
+      "reason": "Use Z and X to interact 表示用 Z 和 X 键互动，译文准确。",
+      "source_excerpt": "Use Z and X to interact...",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000019_138af188d0",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "换行按原文保留，无变量标签。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "命中 t5，译文“湖景\\n小屋”与 required 术语一致。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "标题卡口吻简洁。",
+          "status": "pass"
+        }
+      },
+      "reason": "标题为 Lakeview Cabin，译文“湖景\\n小屋”对应系列名并保留两行结构。",
+      "source_excerpt": "Lakeview\nCabin",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000020_7e28689db3",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "命中 t3，人名按 required 术语原样保留。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "片头字幕简洁，省略号保留。",
+          "status": "pass"
+        }
+      },
+      "reason": "Roope Tamminen presents... 表示由 Roope Tamminen 出品，译文准确。",
+      "source_excerpt": "Roope Tamminen presents...",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000021_e08280e1af",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "无变量标签；两行换行保留。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "命中 t6，YouTube 按 required 术语保留品牌名。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "保留粗口力度和威胁口吻，“蠢货”对应 dipshit，第二人称警告自然。",
+          "status": "pass"
+        }
+      },
+      "reason": "DON'T SHARE ON YOUTUBE 是否定祈使“别分享到 YouTube”，YOU DIPSHIT 为侮辱，I'M WATCHING YOU 为威胁，译文全部传达。",
+      "source_excerpt": "DON'T SHARE ON YOUTUBE YOU DIPSHIT.\nI'M WATCHING YOU!",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000022_0e97c71572",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "To be concluded 表示待续/未完待续，译文准确。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "To be concluded 表示待续/未完待续，译文准确。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "To be concluded 表示待续/未完待续，译文准确。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文无变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条无术语表条目。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "片尾字幕简洁，省略号保留。",
+          "status": "pass"
+        }
+      },
+      "reason": "To be concluded 表示待续/未完待续，译文准确。",
+      "source_excerpt": "To be concluded...",
+      "issues": [],
+      "changes": []
     }
   ]
 }

@@ -1,0 +1,202 @@
+{
+  "status": "installed_hash_verified_pending_user_test",
+  "installed_at": "2026-10-26T00:38:56.768953+08:00",
+  "game_root": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Lakeview Cabin 2",
+  "game_version": "Steam Windows x64 BuildID 13433015",
+  "files": [
+    {
+      "path": "Lakeview Cabin 2_Data/level10",
+      "original_sha256": "8976a41bc53c00d51bbacb83e7169b80f037814a20d8f287422bc0938aab8484",
+      "patched_sha256": "bd74541b89bdc2690d5048253b7c071da40ede73ac7937bb99dd5a17137b1a22",
+      "bytes": 14528,
+      "changes": [
+        {
+          "kind": "text",
+          "path_id": 24
+        }
+      ]
+    },
+    {
+      "path": "Lakeview Cabin 2_Data/sharedassets1.assets",
+      "original_sha256": "a1824721ec4b5a59ce1852435a3ba2efbfc62e089925120114b5f6a2758c14bb",
+      "patched_sha256": "fa1a13c3d1dd13005acbb6f95ce6e3b44ca4c03088979930a87a71e5d6678235",
+      "bytes": 8347416,
+      "changes": [
+        {
+          "kind": "texture",
+          "path_id": 5
+        },
+        {
+          "kind": "texture",
+          "path_id": 7
+        },
+        {
+          "kind": "texture",
+          "path_id": 9
+        },
+        {
+          "kind": "texture",
+          "path_id": 13
+        },
+        {
+          "kind": "sprite",
+          "path_id": 55
+        },
+        {
+          "kind": "sprite",
+          "path_id": 56
+        },
+        {
+          "kind": "sprite",
+          "path_id": 58
+        },
+        {
+          "kind": "sprite",
+          "path_id": 60
+        },
+        {
+          "kind": "sprite",
+          "path_id": 66
+        },
+        {
+          "kind": "sprite",
+          "path_id": 68
+        },
+        {
+          "kind": "sprite",
+          "path_id": 69
+        },
+        {
+          "kind": "sprite",
+          "path_id": 70
+        },
+        {
+          "kind": "sprite",
+          "path_id": 71
+        },
+        {
+          "kind": "sprite",
+          "path_id": 72
+        },
+        {
+          "kind": "sprite",
+          "path_id": 73
+        },
+        {
+          "kind": "sprite",
+          "path_id": 74
+        }
+      ]
+    },
+    {
+      "path": "Lakeview Cabin 2_Data/sharedassets10.assets",
+      "original_sha256": "ded423014487ddebd226838c9ec9def176917108a6f76236b419f8b43d5fa3d1",
+      "patched_sha256": "5857bc572049fafc8daa5d6f6892e40a66a70ef7aca12bd18fd43c8015b524b9",
+      "bytes": 10597032,
+      "changes": [
+        {
+          "kind": "font",
+          "path_id": 5
+        }
+      ]
+    },
+    {
+      "path": "Lakeview Cabin 2_Data/sharedassets18.assets",
+      "original_sha256": "d64afa18a3a85f240cac5156aa07af137ace392327fb3fa48ea571e728fc4933",
+      "patched_sha256": "a91865256bc999d09e512609d256753ecb3a7f66be40bd4971b7e14abaa29a14",
+      "bytes": 3277656,
+      "changes": [
+        {
+          "kind": "texture",
+          "path_id": 88
+        },
+        {
+          "kind": "sprite",
+          "path_id": 1014
+        }
+      ]
+    },
+    {
+      "path": "Lakeview Cabin 2_Data/sharedassets4.assets",
+      "original_sha256": "29d0fb488c42a5e1df088da311cf5b4d5c378b0f331fa19c05a840fdfe272574",
+      "patched_sha256": "f32d196108ac086df9dddc06ece53c3b8cf8acf20ab9bffd6ef3aca08aa94e72",
+      "bytes": 13315512,
+      "changes": [
+        {
+          "kind": "texture",
+          "path_id": 98
+        }
+      ]
+    },
+    {
+      "path": "Lakeview Cabin 2_Data/sharedassets40.assets",
+      "original_sha256": "2ef5d25866ea784e88ea543c31eb62d7ec6db5515f926f304537eeb81a2d80ce",
+      "patched_sha256": "9b218fa7a10b26604b3594023ee59d8b3185017a30201f3e07b16b98e8b309b9",
+      "bytes": 4028432,
+      "changes": [
+        {
+          "kind": "texture",
+          "path_id": 9
+        },
+        {
+          "kind": "texture",
+          "path_id": 15
+        },
+        {
+          "kind": "texture",
+          "path_id": 19
+        },
+        {
+          "kind": "texture",
+          "path_id": 26
+        },
+        {
+          "kind": "texture",
+          "path_id": 38
+        },
+        {
+          "kind": "sprite",
+          "path_id": 576
+        },
+        {
+          "kind": "sprite",
+          "path_id": 578
+        },
+        {
+          "kind": "sprite",
+          "path_id": 580
+        },
+        {
+          "kind": "sprite",
+          "path_id": 582
+        },
+        {
+          "kind": "sprite",
+          "path_id": 587
+        },
+        {
+          "kind": "sprite",
+          "path_id": 762
+        }
+      ]
+    },
+    {
+      "path": "Lakeview Cabin 2_Data/sharedassets41.assets",
+      "original_sha256": "cf6e2b90283504de8d910b2ed71a8c8bc3f56d10cf4217b657a80ca2d3f34cbc",
+      "patched_sha256": "273690068e107d3a7719a589c72ae8e9f76aa05b2f0ab5d8f92f5ef163735998",
+      "bytes": 841168,
+      "changes": [
+        {
+          "kind": "texture",
+          "path_id": 3
+        },
+        {
+          "kind": "sprite",
+          "path_id": 35
+        }
+      ]
+    }
+  ],
+  "game_started_by_agent": false,
+  "known_limits": "See README.md and ImageText/scope_exclusions.json"
+}

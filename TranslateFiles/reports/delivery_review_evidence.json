@@ -1,158 +1,141 @@
 {
-  "purpose": "Archive of actual independent API review results; no new semantic decisions.",
-  "items": [
+  "purpose": "Accepted independent semantic review report; full batch payloads remain in ignored local results.",
+  "records": [
     {
-      "source_result": "TranslateFiles\\results\\review-r2-00001-ad2f6b64\\01bb1a96e21e4375ac249b5caf972474.json",
-      "result": {
-        "task_id": "review-r2-00001-ad2f6b64",
-        "input_hash": "553a6b251fe6a7dd13bb6a8310571aa6c08e1b65728895fa1bf4adc25e3b599d",
-        "records": [
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文没有变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条没有专名或术语需要核对。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "“导演”符合中文片尾字幕简洁的署名口吻。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000001_783deb1acc",
-            "issues": [],
-            "reason": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
-            "reviewed": true,
-            "source_excerpt": "Directed by",
-            "translation": "导演"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文没有变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条没有专名或术语需要核对。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "“协助制作”符合中文片尾字幕中简洁的感谢/署名口吻。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000002_37deae9057",
-            "issues": [],
-            "reason": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
-            "reviewed": true,
-            "source_excerpt": "With help from",
-            "translation": "协助制作"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文没有变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "术语 t1 要求 Denis 保留原文；译文保留拉丁拼写“Denis”，符合要求。",
-                "status": "pass"
-              },
-              "tone": {
-                "evidence": "“纪念 Denis。”简洁庄重，符合片尾纪念字幕的口吻。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000003_049cbb4661",
-            "issues": [],
-            "reason": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
-            "reviewed": true,
-            "source_excerpt": "In memory of Denis.",
-            "translation": "纪念 Denis。"
-          },
-          {
-            "changes": [],
-            "checks": {
-              "accuracy": {
-                "evidence": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
-                "status": "pass"
-              },
-              "completeness": {
-                "evidence": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
-                "status": "pass"
-              },
-              "logic": {
-                "evidence": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
-                "status": "pass"
-              },
-              "placeholders": {
-                "evidence": "原文没有变量、标签或占位符。",
-                "status": "not_applicable"
-              },
-              "terminology": {
-                "evidence": "本条没有专名或术语需要核对。",
-                "status": "not_applicable"
-              },
-              "tone": {
-                "evidence": "“剧终”是中文片尾常用的简洁结束语，口吻相符。",
-                "status": "pass"
-              }
-            },
-            "exceptions": [],
-            "id": "R0000004_34a70d32ee",
-            "issues": [],
-            "reason": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
-            "reviewed": true,
-            "source_excerpt": "THE END",
-            "translation": "剧终"
-          }
-        ]
-      }
+      "id": "R0000001_783deb1acc",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文没有变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条没有专名或术语需要核对。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "“导演”符合中文片尾字幕简洁的署名口吻。",
+          "status": "pass"
+        }
+      },
+      "reason": "原文是片尾字幕中的导演署名；“导演”准确表达该署名，信息无增删，也不涉及条件或数量关系。",
+      "source_excerpt": "Directed by",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000002_37deae9057",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文没有变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条没有专名或术语需要核对。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "“协助制作”符合中文片尾字幕中简洁的感谢/署名口吻。",
+          "status": "pass"
+        }
+      },
+      "reason": "原文是片尾字幕中感谢协助人员的引导语；“协助制作”表达接受协助并参与制作的含义，信息无增删。",
+      "source_excerpt": "With help from",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000003_049cbb4661",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文没有变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "术语 t1 要求 Denis 保留原文；译文保留拉丁拼写“Denis”，符合要求。",
+          "status": "pass"
+        },
+        "tone": {
+          "evidence": "“纪念 Denis。”简洁庄重，符合片尾纪念字幕的口吻。",
+          "status": "pass"
+        }
+      },
+      "reason": "原文意为“纪念 Denis”；译文“纪念 Denis。”完整保留悼念对象和句末停顿，没有增删。",
+      "source_excerpt": "In memory of Denis.",
+      "issues": [],
+      "changes": []
+    },
+    {
+      "id": "R0000004_34a70d32ee",
+      "reviewed": true,
+      "checks": {
+        "accuracy": {
+          "evidence": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
+          "status": "pass"
+        },
+        "completeness": {
+          "evidence": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
+          "status": "pass"
+        },
+        "logic": {
+          "evidence": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
+          "status": "pass"
+        },
+        "placeholders": {
+          "evidence": "原文没有变量、标签或占位符。",
+          "status": "not_applicable"
+        },
+        "terminology": {
+          "evidence": "本条没有专名或术语需要核对。",
+          "status": "not_applicable"
+        },
+        "tone": {
+          "evidence": "“剧终”是中文片尾常用的简洁结束语，口吻相符。",
+          "status": "pass"
+        }
+      },
+      "reason": "原文“THE END”表示影片结束；“剧终”准确表达该含义，信息无增删。",
+      "source_excerpt": "THE END",
+      "issues": [],
+      "changes": []
     }
   ]
 }
