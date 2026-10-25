@@ -1,0 +1,14 @@
+{
+  "text": "## 游戏信息\n- 原名：Lakeview Cabin 2\n- 中文名：湖景小屋2（暂译）\n- 开发商：Roope Tamminen（HypnoGames，个人开发者，兼发行商）\n- 发行平台：Steam（AppID 1291790；Windows / macOS）\n- 引擎：Unity（Mono 后端，含 PlayMaker、DOTween、Cinemachine）\n- 原语言：英语（界面/字幕/音频均仅英语）\n\n## 游戏简介\n《Lakeview Cabin 2》是《Lakeview Cabin Collection》的续作，一款像素风格的动作生存恐怖游戏。玩家同时操控四名伙伴，利用场景中各种物品设陷阱、做规划，对抗恐怖敌人，主打涌现式玩法。游戏共四个章节：夏日别墅遇袭求生、恐怖片影迷见面会捉凶手、电视剧制片厂多时间线探索、末日废土阻止邪恶。包含初代 Flash 游戏重制版与各章附加模式，支持单人或 2 人本地/远程同乐合作。Steam 评价\"压倒性好评\"。\n\n来源：[Steam 商店页面](https://store.steampowered.com/app/1291790/Lakeview_Cabin_2/)\n\n> 内容提示：开发商声明本作包含涉及像素角色的暴力和性场景（R-rated），翻译时需保留原文的成人恐怖基调。\n\n## 汉化目标\n- 范围：游戏内常规文本 + 图片文字（菜单、标题、便条、标牌等贴图）\n- 目标语言：简体中文\n- 翻译路线：API（程序请求）\n- 图片文字翻译：启用（用户明确选择）",
+  "sha256": "379aafebe6a2d345775712083e4f769f4a6dd0d24dd8870d3e3e2c90370c0d1b",
+  "source": {
+    "kind": "readme",
+    "path": "README.md",
+    "sha256": "51fbadc350c46d02109a760e6480e9d98fa37609c52f55f7233b5d730196bbc4",
+    "sections": [
+      "游戏信息",
+      "游戏简介",
+      "汉化目标"
+    ]
+  }
+}

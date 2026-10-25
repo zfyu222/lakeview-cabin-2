@@ -5,3 +5,18 @@
 /tasks/
 /results/
 /source/
+
+# Local scheduling, attempt history and generated diagnostics
+/history/
+/reports/api_runs/
+/reports/api_failover/
+/reports/accepted/
+/reports/draft_checks/
+/reports/pilot_rounds/
+/reports/pilot_feedback/
+/reports/review_rounds/
+/reports/sol_rounds/
+/reports/*.template.json
+/reports/full_draft_scan.json
+/reports/pilot_calibration.json
+/reports/review_round_status.json
