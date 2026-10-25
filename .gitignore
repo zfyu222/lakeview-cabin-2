@@ -49,3 +49,7 @@ Desktop.ini
 /ImageText/qwen_resume.log
 /Repack/build.log
 /Repack/sprite_preview/
+/Analysis/key_binding_source.json
+/Analysis/user_feedback_20261026/*.png
+/ImageText/original-keyboard-prompts.png
+/ImageText/original-pause-menu.png

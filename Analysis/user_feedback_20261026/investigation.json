@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-26",
+  "pause_menu": "Original PauseMenuIcons texture; image-based menu is unchanged.",
+  "keyboard_prompts": "Original GuiKeyboardButtonPrompts contains empty paired square keys, not Latin letters. Shared texture supports several keyboard layouts.",
+  "sharedassets2_original_sha256": "07581f7c5e8e737e70c0767c00586c347b02785ca42ad69e875dab28feca58d9",
+  "sharedassets2_installed_sha256": "07581f7c5e8e737e70c0767c00586c347b02785ca42ad69e875dab28feca58d9",
+  "additional_keyboard_objects_unchanged": {
+    "35": true,
+    "1408": true,
+    "1554": true
+  },
+  "actual_bindings": [
+    {
+      "map": "PlayerP2",
+      "action": "Pick",
+      "path": "<Keyboard>/z",
+      "groups": "All;Keyboard P2"
+    },
+    {
+      "map": "PlayerP2",
+      "action": "Throw",
+      "path": "<Keyboard>/x",
+      "groups": "All;Keyboard P2"
+    },
+    {
+      "map": "PlayerP2",
+      "action": "Use",
+      "path": "<Keyboard>/upArrow",
+      "groups": "All;Keyboard P2"
+    },
+    {
+      "map": "PlayerP2",
+      "action": "Use",
+      "path": "<Keyboard>/upArrow",
+      "groups": "P1 Keyboard"
+    },
+    {
+      "map": "PlayerP2",
+      "action": "Throw",
+      "path": "<Keyboard>/x",
+      "groups": "P1 Keyboard"
+    },
+    {
+      "map": "PlayerP2",
+      "action": "Pick",
+      "path": "<Keyboard>/z",
+      "groups": "P1 Keyboard"
+    },
+    {
+      "map": "PlayerP2KBD",
+      "action": "Pick",
+      "path": "<Keyboard>/c",
+      "groups": "All"
+    },
+    {
+      "map": "PlayerP2KBD",
+      "action": "Throw",
+      "path": "<Keyboard>/v",
+      "groups": "All"
+    },
+    {
+      "map": "PlayerP2KBD",
+      "action": "Use",
+      "path": "<Keyboard>/w",
+      "groups": "P1 Keyboard;All"
+    }
+  ],
+  "modification": "No game modifications made for these two reports. Avoid hardcoding Z/X into assets reused by the C/V keyboard layout.",
+  "screenshots": [
+    "user-1.png",
+    "user-2.png"
+  ]
+}
