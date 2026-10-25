@@ -91,7 +91,9 @@
 - 验证：两套正式翻译的release-check通过；用户确认代表性中文界面正常；ZIP解压覆盖模拟、10项文件白名单及SHA-256校验通过。
 - 已知问题：少量极小装饰文字保留原样；原版图标设计保留；未完整通关，仅支持已测试构建。
 - 项目：https://github.com/zfyu222/lakeview-cabin-2
-- GitHub Release：https://github.com/zfyu222/lakeview-cabin-2/releases/tag/v1.0 （发布上传中）
+- GitHub Release：https://github.com/zfyu222/lakeview-cabin-2/releases/tag/v1.0 （已公开发布，最新稳定版）
+- GitHub附件名：`lakeview-cabin-2_zh-CN_v1.0.zip`；平台会移除文件名中的中文，完整中文名保留在附件标签及本地发布包中，两者内容一致。
+- 下载核验：匿名公开下载与本地ZIP逐字节一致，SHA-256：`39cdbfc2f77bd119e0c4465beacc7c42e43b9901d757bd9ae1aef64210d9ea54`；发布回执见 `Dispatch/publication.json`。
 - 后续补丁可能更新，建议关注或订阅本项目GitHub仓库 / Releases。
 
-- 2026-10-26 - 根据用户实测确认完成发布验收，制作v1.0发布包，开始上传独立公开仓库与GitHub Release。
+- 2026-10-26 - 根据用户实测确认完成发布验收，制作v1.0发布包，公开发布至独立GitHub仓库和最新稳定版Release，匿名下载校验通过。
