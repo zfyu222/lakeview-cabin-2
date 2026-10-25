@@ -41,14 +41,14 @@
 - 常规原文：`lakeview-cabin-2_text.csv`，4 条片尾字幕片段。`Analysis/source_mapping.json` 保留原始字幕、定位和排除说明；回填仅替换片段，保留人员名及空行布局。
 - 33 个文本赋值状态核对后，游戏动态文本仅用于分辨率数字；PlayMaker 内部事件、存档键、对象名和 debug UI 不翻译。SecretKey 的 Solve 仅由 BuildString 生成，未发现显示消费者。
 - 图片导出：`ImageText/exported/`；引擎来源：`ImageText/provenance.json`；三级流程工作快照：`ImageText/work/`。已视觉查看36张校准样本，未声明任何已校准普通字体族。
-- 图片抽取完成：3015张全量GPU PP-OCRv6 medium；415张有效本地Qwen复核，1张镜像字幕回复越界被拒收，当前对话Agent直接裁决。386张候选/抽查图由对话Agent查看并记录；最终22条源文、28处坐标，详见 ImageText/extraction_report.json。
+- 图片抽取完成：3015张全量GPU PP-OCRv6 medium；415张有效本地Qwen复核，1张镜像字幕回复越界被拒收，当前对话Agent直接裁决。367张候选/抽查图由对话Agent查看并记录；最终22条源文、28处坐标，详见 ImageText/extraction_report.json。
 - 27张保留原图清单见 ImageText/scope_exclusions.json，包括开发校准/字体图、数字/方向/品牌图形以及极小的不可可靠转写文本；其余预测排除并非已确认无字。正式图片CSV是明确确认的可翻译子集，不宣称全游戏零漏字。
 - 局部Qwen故障恢复：Analysis/run_image_qwen_resilient.py 仅在本项目保留错误证据并路由当前对话复核，未修改共用工具或把错误当模型结论。
 
 ## 翻译
 - 路线：API，共用 translation_workflow.py / run_api_round.py。接口按工作区 api.local.jsonc 的已启用优先级与故障切换配置执行；凭据不入库。当前首选 yjapi / deepseek-v4.1-flash，具体真实调用记录保留在本地 reports/api_runs。
 - 常规文本术语：已完成全文提取、独立语义审校和冻结，r2，non_translate 保留 Denis；人物名单不进入翻译片段，不改原拼写。
-- 常规试译：全部4条，主Agent整体校准接受，未发现机械错误；正式翻译和独立审校待图片抽取完成后继续。
+- 常规文本：4条全部完成API正式翻译、草稿校验及独立六维语义审校；无遗留争议，程序最终导出通过，正式文件 lakeview-cabin-2_text_translated.csv。实机状态待回填/用户测试。
 - 占位符：由共用程序保护；字幕空行及原人员名单由回填映射保留。
 - 图片文本：独立 TranslateFiles/image-text 子工程，等待视觉确认后的原文，不混用常规文本状态。
 
