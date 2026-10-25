@@ -1,0 +1,90 @@
+{
+  "1": {
+    "text_type": "image_text",
+    "resource": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png"
+  },
+  "2": {
+    "text_type": "image_text",
+    "resource": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png"
+  },
+  "3": {
+    "text_type": "image_text",
+    "resource": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png"
+  },
+  "4": {
+    "text_type": "image_text",
+    "resource": "00157_Lakeview_Cabin_2_Player_ChoiceControllers.png"
+  },
+  "5": {
+    "text_type": "image_text",
+    "resource": "00159_Lakeview_Cabin_2_Title.png"
+  },
+  "6": {
+    "text_type": "image_text",
+    "resource": "00159_Lakeview_Cabin_2_Title.png"
+  },
+  "7": {
+    "text_type": "image_text",
+    "resource": "00161_Title_Screen_Presents.png"
+  },
+  "8": {
+    "text_type": "image_text",
+    "resource": "00165_Lakeview_Cabin_2_Player_Choice.png"
+  },
+  "9": {
+    "text_type": "image_text",
+    "resource": "00165_Lakeview_Cabin_2_Player_Choice.png"
+  },
+  "10": {
+    "text_type": "image_text",
+    "resource": "00165_Lakeview_Cabin_2_Player_Choice.png"
+  },
+  "11": {
+    "text_type": "image_text",
+    "resource": "00165_Lakeview_Cabin_2_Player_Choice.png"
+  },
+  "12": {
+    "text_type": "image_text",
+    "resource": "00165_Lakeview_Cabin_2_Player_Choice.png"
+  },
+  "13": {
+    "text_type": "image_text",
+    "resource": "00261_FauxCredits2.png; 02767_LakeviewCabin1EndingCredit.png"
+  },
+  "14": {
+    "text_type": "image_text",
+    "resource": "00261_FauxCredits2.png"
+  },
+  "15": {
+    "text_type": "image_text",
+    "resource": "02638_NoteItems.png"
+  },
+  "16": {
+    "text_type": "image_text",
+    "resource": "02757_LakeviewCabin1GameOver.png"
+  },
+  "17": {
+    "text_type": "image_text",
+    "resource": "02763_Cabin1Tutorials.png"
+  },
+  "18": {
+    "text_type": "image_text",
+    "resource": "02763_Cabin1Tutorials.png"
+  },
+  "19": {
+    "text_type": "image_text",
+    "resource": "02774_LakeviewCabin1TitleCard.png"
+  },
+  "20": {
+    "text_type": "image_text",
+    "resource": "02774_LakeviewCabin1TitleCard.png"
+  },
+  "21": {
+    "text_type": "image_text",
+    "resource": "02786_WatermarkWarning.png"
+  },
+  "22": {
+    "text_type": "image_text",
+    "resource": "02788_LakeviewCabin1EndingCredit2.png"
+  }
+}

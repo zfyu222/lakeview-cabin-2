@@ -1,0 +1,45 @@
+{
+  "snapshot_sha256": "5fb7f7e823cdba2be024eb9100d3bca85b2efe24815376e0187e47db3e13ebc9",
+  "source_sha256": "19afdde6c8c6e282ae1d4d22a8a0c388e437b0a039988f148709f7adb41f1ba9",
+  "review_complete": true,
+  "review_summary": "共审校 1 个条目（e1）：Denis 为片尾纪念人名，按风格保留英文并以 non_translate 处理；未发现需编辑或隔离项。",
+  "reviewed_refs": [
+    "non_translate:0"
+  ],
+  "acknowledged_findings": [],
+  "edits": [],
+  "quarantine": [],
+  "additions": [],
+  "allow_no_match": [],
+  "entry_reviews": [
+    {
+      "checks": {
+        "category": {
+          "evidence": "该条为片尾纪念人名，列入 non_translate 可避免将专名误译，分类合适。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "本批无其他术语或译名冲突；Denis 单独保留英文，与片尾人员名处理策略一致。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "第3行原文为“In memory of Denis.”，其中 Denis 为被纪念者人名，来源字段与原文一致。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "风格要求片尾人员名保留拉丁拼写、Denis 保留英文，因此不提供中文译名是正确的。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        3
+      ],
+      "reason": "Denis 是片尾纪念文字中的人名，按风格要求保留拉丁拼写，不翻译。",
+      "ref": "non_translate:0",
+      "source_excerpt": "In memory of Denis."
+    }
+  ],
+  "review_instances": {
+    "non_translate:0": "api-glossary_review-a70fee177aed4d2d8adfeead8ef05b1d"
+  }
+}

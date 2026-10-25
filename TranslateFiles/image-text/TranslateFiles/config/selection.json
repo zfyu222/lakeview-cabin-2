@@ -1,0 +1,8 @@
+{
+  "workflow": "custom",
+  "backend": "api",
+  "source_language": "English",
+  "target_language": "简体中文",
+  "style": "像素生存恐怖游戏。中文简洁自然，保留原文黑色幽默和粗口力度，不添加说明。系列名Lakeview Cabin为湖景小屋；人数选项清楚简短。作者名Roope Tamminen、公司HypnoGames Company Inc.和平台YouTube保留原文；Z、X等按键保留。严格保持原有换行。",
+  "polish": false
+}

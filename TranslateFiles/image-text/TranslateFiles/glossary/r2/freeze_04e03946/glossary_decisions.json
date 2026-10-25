@@ -1,0 +1,213 @@
+{
+  "snapshot_sha256": "7ada08c0d706ad3ff9ddc4c3d0ac543359c2bffded6a3e977c608b5631f6529b",
+  "source_sha256": "b6e66c4e8b45baf8f40ee5489a2b9eabe27addf06f28a8eb270a3a4bc5f93ef1",
+  "review_complete": true,
+  "review_summary": "已逐条核对7个术语条目及其ordinal原文，确认系列标题、作者/公司署名与YouTube品牌的译名、分类和换行处理一致；未发现需修订、隔离或新增的条目。",
+  "reviewed_refs": [
+    "terms:0",
+    "terms:3",
+    "terms:4",
+    "terms:5",
+    "terms:1",
+    "terms:2",
+    "terms:6"
+  ],
+  "acknowledged_findings": [],
+  "edits": [],
+  "quarantine": [],
+  "additions": [],
+  "allow_no_match": [],
+  "entry_reviews": [
+    {
+      "checks": {
+        "category": {
+          "evidence": "游戏标题/系列名不属于物品、组织、地名、技能或种族，归入其他合适。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "与 e2/e3/e4 的“湖景小屋”核心译名一致，仅按原文保留换行和编号差异。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "ordinal 5 原文标题内连续出现 LAKEVIEW\\nCABIN 2，来源准确。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "按风格保留原换行，译为“湖景\\n小屋2”，与系列名“湖景小屋”一致。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        5
+      ],
+      "reason": "标题文本与原文一致，保留系列名换行及续作编号，归入其他。",
+      "ref": "terms:0",
+      "source_excerpt": "LAKEVIEW\nCABIN 2"
+    },
+    {
+      "checks": {
+        "category": {
+          "evidence": "系列名归入其他，符合现有分类路径。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "与 e1/e3/e4 的“湖景小屋”系列译名一致。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "ordinal 12 的 Play Lakeview Cabin 1 中连续出现 Lakeview Cabin。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "按风格将系列名 Lakeview Cabin 译为“湖景小屋”。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        12
+      ],
+      "reason": "系列名取自选单初代入口，译名与系列名统一。",
+      "ref": "terms:3",
+      "source_excerpt": "Lakeview Cabin"
+    },
+    {
+      "checks": {
+        "category": {
+          "evidence": "初代作品标题归入其他合适。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "沿用系列名“湖景小屋”，与 e1/e2/e4 一致。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "ordinal 12 原文为 Play Lakeview Cabin 1，条目提取 Lakeview Cabin 1 准确。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "译为“湖景小屋1”，保留作品序号，清楚简短。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        12
+      ],
+      "reason": "初代作品入口标题完整，数字与系列名译法一致。",
+      "ref": "terms:4",
+      "source_excerpt": "Lakeview Cabin 1"
+    },
+    {
+      "checks": {
+        "category": {
+          "evidence": "标题卡系列名归入其他合适。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "与 e1/e2/e3 的系列名“湖景小屋”一致，仅体现原文换行。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "ordinal 19 原文 Lakeview\\nCabin 连续匹配。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "译为“湖景\\n小屋”，严格保留原有换行。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        19
+      ],
+      "reason": "初代标题卡系列名保留原换行，核心译名一致。",
+      "ref": "terms:5",
+      "source_excerpt": "Lakeview\nCabin"
+    },
+    {
+      "checks": {
+        "category": {
+          "evidence": "版权公司名归入组织合适。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "公司名各字段一致，且与作者名保留原文的处理风格统一。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "ordinal 6 的 copyright by HypnoGames Company Inc. 中连续包含完整公司名。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "按风格保留公司名原文 HypnoGames Company Inc.。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        6
+      ],
+      "reason": "版权署名公司名按原文保留，组织分类合适。",
+      "ref": "terms:1",
+      "source_excerpt": "HypnoGames Company Inc."
+    },
+    {
+      "checks": {
+        "category": {
+          "evidence": "个人开发者署名为专有人名，非游戏内角色或组织，归入其他可接受。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "ordinal 7 与 20 均为 Roope Tamminen，译名保持原文一致。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "ordinal 7 原文 Roope Tamminen presents 中连续包含作者名。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "按风格保留作者名原文 Roope Tamminen。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        7
+      ],
+      "reason": "开发者署名按原文保留，各出处一致。",
+      "ref": "terms:2",
+      "source_excerpt": "Roope Tamminen"
+    },
+    {
+      "checks": {
+        "category": {
+          "evidence": "YouTube 作为平台/公司品牌，归入组织可接受。",
+          "status": "pass"
+        },
+        "consistency": {
+          "evidence": "品牌名固定保留，与风格中平台名不翻译的处理一致。",
+          "status": "pass"
+        },
+        "source": {
+          "evidence": "ordinal 21 原文 DON'T SHARE ON YOUTUBE YOU DIPSHIT. 中包含 YOUTUBE。",
+          "status": "pass"
+        },
+        "translation": {
+          "evidence": "按品牌常规写法保留为 YouTube；原图全大写不改变专名实质。",
+          "status": "pass"
+        }
+      },
+      "evidence_rows": [
+        21
+      ],
+      "reason": "平台品牌名保留为规范写法 YouTube，组织分类可接受。",
+      "ref": "terms:6",
+      "source_excerpt": "YOUTUBE"
+    }
+  ],
+  "review_instances": {
+    "terms:0": "api-glossary_review-044c86b15e994fbd8cc24efad331bb3a",
+    "terms:3": "api-glossary_review-044c86b15e994fbd8cc24efad331bb3a",
+    "terms:4": "api-glossary_review-044c86b15e994fbd8cc24efad331bb3a",
+    "terms:5": "api-glossary_review-044c86b15e994fbd8cc24efad331bb3a",
+    "terms:1": "api-glossary_review-044c86b15e994fbd8cc24efad331bb3a",
+    "terms:2": "api-glossary_review-044c86b15e994fbd8cc24efad331bb3a",
+    "terms:6": "api-glossary_review-044c86b15e994fbd8cc24efad331bb3a"
+  }
+}

@@ -1,0 +1,5 @@
+# Keep byte-bound source, mapping and validation hashes stable across Windows checkouts.
+*.csv -text
+*.json -text
+*.jsonc -text
+*.png -text

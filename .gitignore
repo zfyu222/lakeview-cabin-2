@@ -37,3 +37,13 @@ Desktop.ini
 /TranslateFiles/logs/
 /TranslateFiles/backups/
 /TranslateFiles/cache/
+# Additional local evidence (not release payloads)
+/Analysis/fsm_unique.json
+/Analysis/text_action_context.json
+/Analysis/text_action.log
+/ImageText/*.jpg
+/ImageText/provenance.json
+/ImageText/pipeline.log
+/Analysis/sprite_slices.json
+/ImageText/*-dark.png
+/ImageText/qwen_resume.log

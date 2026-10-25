@@ -1,0 +1,235 @@
+{
+  "characters": [],
+  "terms": [
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "湖景\n小屋2",
+      "source": "LAKEVIEW\nCABIN 2",
+      "term_kind": "proper_name",
+      "term_reason": "游戏标题，系列名加续作编号，保留原换行。",
+      "evidence_rows": [
+        5
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "其他",
+            "enforcement": "required",
+            "recommended_translation": "湖景\n小屋2",
+            "source": "LAKEVIEW\nCABIN 2",
+            "term_kind": "proper_name",
+            "term_reason": "游戏标题，系列名加续作编号，保留原换行。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            5
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-00fd0d4e"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "HypnoGames Company Inc.",
+      "source": "HypnoGames Company Inc.",
+      "term_kind": "proper_name",
+      "term_reason": "版权署名中的公司名，按原文保留。",
+      "evidence_rows": [
+        6
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "组织",
+            "enforcement": "required",
+            "recommended_translation": "HypnoGames Company Inc.",
+            "source": "HypnoGames Company Inc.",
+            "term_kind": "proper_name",
+            "term_reason": "版权署名中的公司名，按原文保留。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            6
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-00fd0d4e"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "Roope Tamminen",
+      "source": "Roope Tamminen",
+      "term_kind": "proper_name",
+      "term_reason": "开发者署名，按原文保留人名。",
+      "evidence_rows": [
+        7,
+        20
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "其他",
+            "enforcement": "required",
+            "recommended_translation": "Roope Tamminen",
+            "source": "Roope Tamminen",
+            "term_kind": "proper_name",
+            "term_reason": "开发者署名，按原文保留人名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            7,
+            20
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-00fd0d4e"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "湖景小屋",
+      "source": "Lakeview Cabin",
+      "term_kind": "proper_name",
+      "term_reason": "系列名，作为初代标题前缀出现。",
+      "evidence_rows": [
+        12
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "其他",
+            "enforcement": "required",
+            "recommended_translation": "湖景小屋",
+            "source": "Lakeview Cabin",
+            "term_kind": "proper_name",
+            "term_reason": "系列名，作为初代标题前缀出现。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            12
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-00fd0d4e"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "湖景小屋1",
+      "source": "Lakeview Cabin 1",
+      "term_kind": "proper_name",
+      "term_reason": "选单中的初代作品标题入口。",
+      "evidence_rows": [
+        12
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "其他",
+            "enforcement": "required",
+            "recommended_translation": "湖景小屋1",
+            "source": "Lakeview Cabin 1",
+            "term_kind": "proper_name",
+            "term_reason": "选单中的初代作品标题入口。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            12
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-00fd0d4e"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "湖景\n小屋",
+      "source": "Lakeview\nCabin",
+      "term_kind": "proper_name",
+      "term_reason": "初代标题卡中的系列名，保留原换行。",
+      "evidence_rows": [
+        19
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "其他",
+            "enforcement": "required",
+            "recommended_translation": "湖景\n小屋",
+            "source": "Lakeview\nCabin",
+            "term_kind": "proper_name",
+            "term_reason": "初代标题卡中的系列名，保留原换行。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            19
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-00fd0d4e"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "YouTube",
+      "source": "YOUTUBE",
+      "term_kind": "proper_name",
+      "term_reason": "平台专名，按原文保留品牌名。",
+      "evidence_rows": [
+        21
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "组织",
+            "enforcement": "required",
+            "recommended_translation": "YouTube",
+            "source": "YOUTUBE",
+            "term_kind": "proper_name",
+            "term_reason": "平台专名，按原文保留品牌名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            21
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-00fd0d4e"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    }
+  ],
+  "non_translate": [],
+  "applicability_policy": 1,
+  "terminology_policy": 1,
+  "corpus_evidence_policy": 1
+}

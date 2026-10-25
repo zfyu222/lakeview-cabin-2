@@ -1,0 +1,33 @@
+{
+  "candidate_only": true,
+  "relations": [
+    {
+      "refs": [
+        "terms:0",
+        "terms:3"
+      ],
+      "kind": "component"
+    },
+    {
+      "refs": [
+        "terms:0",
+        "terms:4"
+      ],
+      "kind": "component"
+    },
+    {
+      "refs": [
+        "terms:0",
+        "terms:5"
+      ],
+      "kind": "component"
+    },
+    {
+      "refs": [
+        "terms:3",
+        "terms:5"
+      ],
+      "kind": "variant"
+    }
+  ]
+}

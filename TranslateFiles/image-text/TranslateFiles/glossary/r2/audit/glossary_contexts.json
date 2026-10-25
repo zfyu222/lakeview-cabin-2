@@ -1,0 +1,80 @@
+[
+  {
+    "ref": "terms:0",
+    "source": "LAKEVIEW\nCABIN 2",
+    "evidence": [
+      {
+        "row": 5,
+        "excerpt": "“LAKEVIEW\nCABIN 2”"
+      }
+    ]
+  },
+  {
+    "ref": "terms:1",
+    "source": "HypnoGames Company Inc.",
+    "evidence": [
+      {
+        "row": 6,
+        "excerpt": "copyright by HypnoGames Company Inc."
+      }
+    ]
+  },
+  {
+    "ref": "terms:2",
+    "source": "Roope Tamminen",
+    "evidence": [
+      {
+        "row": 7,
+        "excerpt": "Roope Tamminen presents"
+      },
+      {
+        "row": 20,
+        "excerpt": "Roope Tamminen presents..."
+      }
+    ]
+  },
+  {
+    "ref": "terms:3",
+    "source": "Lakeview Cabin",
+    "evidence": [
+      {
+        "row": 12,
+        "excerpt": "Play Lakeview Cabin 1"
+      }
+    ]
+  },
+  {
+    "ref": "terms:4",
+    "source": "Lakeview Cabin 1",
+    "evidence": [
+      {
+        "row": 12,
+        "excerpt": "Play Lakeview Cabin 1"
+      }
+    ]
+  },
+  {
+    "ref": "terms:5",
+    "source": "Lakeview\nCabin",
+    "evidence": [
+      {
+        "row": 5,
+        "excerpt": "“LAKEVIEW\nCABIN 2”"
+      },
+      {
+        "row": 19,
+        "excerpt": "Lakeview\nCabin"
+      }
+    ]
+  },
+  {
+    "ref": "terms:6",
+    "source": "YOUTUBE",
+    "evidence": [
+      {
+        "row": 21,
+        "excerpt": "DON'T SHARE ON YOUTUBE YOU DIPSHIT.\nI'M WATCHING YOU!"
+      }
+    ]
+  }
+]

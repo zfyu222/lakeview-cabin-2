@@ -30,7 +30,7 @@
 | 环节 | 工具 | 版本 |
 |------|------|------|
 | 提取 | UnityPy + TypeTreeGenerator（修正节点对齐/数组）；本地图片三级流程 | UnityPy 1.25.4 / Unity 2019.4.34f1 |
-| 翻译 |  |  |
+| 翻译 | 共用API流程；DeepSeek（本机优先级接口） | translation_workflow.py 当前工作区版 |
 | 回填 |  |  |
 
 ## 文本提取
@@ -50,7 +50,9 @@
 - 常规文本术语：已完成全文提取、独立语义审校和冻结，r2，non_translate 保留 Denis；人物名单不进入翻译片段，不改原拼写。
 - 常规文本：4条全部完成API正式翻译、草稿校验及独立六维语义审校；无遗留争议，程序最终导出通过，正式文件 lakeview-cabin-2_text_translated.csv。实机状态待回填/用户测试。
 - 占位符：由共用程序保护；字幕空行及原人员名单由回填映射保留。
-- 图片文本：独立 TranslateFiles/image-text 子工程，等待视觉确认后的原文，不混用常规文本状态。
+- 图片文本：独立 TranslateFiles/image-text 子工程；22条全部完成术语提取、独立术语语义审校、试译校准、正式翻译及独立六维审校。r2冻结7项专名，保护标题换行、Z/X按键及作者/公司/平台名。
+- 图片正式译文：lakeview-cabin-2_images_text_translated.csv；源文/译文哈希、22条对齐及全部程序门槛通过，真实审校结果另存 reports/delivery_review_evidence.json。无遗留争议，不增加额外全文复审。
+- 图片合入：game-image-repack 验证生成overlay描述，再由 Analysis/render_image_patch.py 生成12张同尺寸中文贴图、28处文本，已查看全部静态预览。保留透明背景、空心字、镜像字幕、初代金色标题及所有未翻译图形。
 
 ## 回填
 - 工具/命令：

@@ -1,0 +1,31 @@
+{
+  "characters": [],
+  "terms": [],
+  "non_translate": [
+    {
+      "source": "Denis",
+      "evidence_rows": [
+        3
+      ],
+      "extraction_candidates": [
+        {
+          "table": "non_translate",
+          "row": {
+            "source": "Denis"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            3
+          ],
+          "extraction_tasks": [
+            "extract-r2-00001-cda8da1f"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    }
+  ],
+  "applicability_policy": 1,
+  "terminology_policy": 1,
+  "corpus_evidence_policy": 1
+}
