@@ -85,6 +85,9 @@
 - 调查记录：Analysis/user_feedback_20261026/investigation.json。此次没有修改游戏文件；这两张截图不能代替全部中文字体/布局实测。
 
 ## 对外发布
+
+- 汉化封面：`Dispatch/Artwork/title.png`，参考 [Steam 官方素材](https://store.steampowered.com/app/1291790/)，使用内置图像工具制作并视觉检查；来源及提示词见 `Dispatch/Artwork/source.json`。封面不进入安装载荷。
+
 - 补丁：`Dispatch/湖景小屋2_子非鱼汉化1.0.zip`，标题《湖景小屋2》子非鱼AI汉化补丁 v1.0。
 - 支持版本/平台：Steam BuildID 13433015 / Windows x64（Steam）。
 - 载荷：7个修改后的Unity资源文件；清单见 Dispatch/PATCH_MANIFEST.json；不含游戏EXE、原版备份、API凭据或开发日志。
